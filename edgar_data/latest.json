@@ -1,0 +1,4933 @@
+{
+ "_about": "SEC EDGAR companyfacts pulled 2026-10-18. USD billions. Financial-statement fields only; market fields merged later from Robinhood.",
+ "SPG": {
+  "name": "SIMON PROPERTY GROUP, INC.",
+  "cik": "0001063761",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 3.175396,
+    "ytd": 1.58626,
+    "ytd_prior": 1.471814
+   },
+   "interest_expense": {
+    "fy": 0.974835,
+    "ytd": 0.556826,
+    "ytd_prior": 0.45972
+   },
+   "ocf": {
+    "fy": 4.136551,
+    "ytd": 2.028941,
+    "ytd_prior": 2.04255
+   },
+   "capex": {
+    "fy": 0.934346,
+    "ytd": 0.445285,
+    "ytd_prior": 0.474225
+   },
+   "pretax": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "tax": {
+    "fy": 0.020279,
+    "ytd": null,
+    "ytd_prior": null
+   }
+  },
+  "balance": {
+   "current_assets": null,
+   "current_liabilities": null,
+   "total_assets": 39.709266,
+   "total_liabilities": 33.862739,
+   "retained_earnings": -5.128188,
+   "equity_total": 5.5747,
+   "cash": 1.019091
+  },
+  "debt_facts": {
+   "LongTermDebt": 28.699607
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   6.364505,
+   5.963798,
+   5.658836,
+   5.291447,
+   5.116789
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   5.36412,
+   2.729021,
+   2.617018,
+   2.452385,
+   2.568707
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "capex = PaymentsToAcquireProductiveAssets",
+   "pretax: none of the mapped concepts tagged",
+   "net_income = ProfitLoss"
+  ]
+ },
+ "SBAC": {
+  "name": "SBA COMMUNICATIONS CORPORATION",
+  "cik": "0001034054",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.342786,
+    "ytd": 0.69471,
+    "ytd_prior": 0.66969
+   },
+   "interest_expense": {
+    "fy": 0.467404,
+    "ytd": 0.255956,
+    "ytd_prior": 0.211943
+   },
+   "ocf": {
+    "fy": 1.291328,
+    "ytd": 0.662263,
+    "ytd_prior": 0.669273
+   },
+   "capex": {
+    "fy": 0.224819,
+    "ytd": 0.110816,
+    "ytd_prior": 0.102038
+   },
+   "pretax": {
+    "fy": 1.242038,
+    "ytd": 0.468483,
+    "ytd_prior": 0.520676
+   },
+   "tax": {
+    "fy": 0.187582,
+    "ytd": 0.087107,
+    "ytd_prior": 0.077078
+   }
+  },
+  "balance": {
+   "current_assets": 0.744772,
+   "current_liabilities": 4.336645,
+   "total_assets": 11.74232,
+   "total_liabilities": null,
+   "retained_earnings": -7.135584,
+   "equity_total": -4.629854,
+   "cash": 0.327051
+  },
+  "debt_facts": {
+   "LongTermDebt": 12.729222,
+   "LongTermDebtNoncurrent": 9.150666,
+   "LongTermDebtCurrent": 3.578556
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 10.964466
+  },
+  "revenue": [
+   2.815139,
+   2.679634,
+   2.711584,
+   2.633454,
+   2.308834
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   1.053632,
+   0.749536,
+   0.501812,
+   0.461429,
+   0.237624
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestPaidNet",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "GLPI": {
+  "name": "Gaming and Leisure Properties,\u00a0Inc.",
+  "cik": "0001575965",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.201453,
+    "ytd": 0.665741,
+    "ytd_prior": 0.500898
+   },
+   "interest_expense": {
+    "fy": 0.373881,
+    "ytd": 0.196561,
+    "ytd_prior": 0.187206
+   },
+   "ocf": {
+    "fy": 1.129417,
+    "ytd": 0.619831,
+    "ytd_prior": 0.545867
+   },
+   "capex": {
+    "fy": null,
+    "ytd": 0.29623,
+    "ytd_prior": 0.034098
+   },
+   "pretax": {
+    "fy": 0.852585,
+    "ytd": 0.475507,
+    "ytd_prior": 0.327628
+   },
+   "tax": {
+    "fy": 0.002229,
+    "ytd": 0.001161,
+    "ytd_prior": 0.001109
+   }
+  },
+  "balance": {
+   "current_assets": null,
+   "current_liabilities": null,
+   "total_assets": 14.155215,
+   "total_liabilities": 8.773788,
+   "retained_earnings": -1.990222,
+   "equity_total": 5.381427,
+   "cash": 0.319004
+  },
+  "debt_facts": {
+   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 8.077741,
+   "LongTermDebt": 8.077741
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   1.594752,
+   1.531546,
+   1.440392,
+   1.311685,
+   1.216351
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.825111,
+   0.78462,
+   0.734283,
+   0.684653,
+   0.534047
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "capex = PaymentsToAcquireOtherProductiveAssets",
+   "cash = CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents"
+  ]
+ },
+ "OHI": {
+  "name": "OMEGA HEALTHCARE INVESTORS, INC.",
+  "cik": "0000888491",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": null,
+    "ytd": 0.663375,
+    "ytd_prior": 0.556609
+   },
+   "interest_expense": {
+    "fy": 0.215035,
+    "ytd": 0.097871,
+    "ytd_prior": 0.105177
+   },
+   "ocf": {
+    "fy": 0.878551,
+    "ytd": 0.433224,
+    "ytd_prior": 0.421217
+   },
+   "capex": {
+    "fy": 0.080869,
+    "ytd": 0.026671,
+    "ytd_prior": 0.032941
+   },
+   "pretax": {
+    "fy": 0.624215,
+    "ytd": 0.539675,
+    "ytd_prior": 0.261787
+   },
+   "tax": {
+    "fy": 0.014748,
+    "ytd": 0.009724,
+    "ytd_prior": 0.008139
+   }
+  },
+  "balance": {
+   "current_assets": null,
+   "current_liabilities": null,
+   "total_assets": 10.014761,
+   "total_liabilities": 4.372468,
+   "retained_earnings": 5.190964,
+   "equity_total": 5.642293,
+   "cash": 0.039036
+  },
+  "debt_facts": {
+   "LongTermDebt": 4.256011
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   1.190099,
+   1.05139,
+   0.94974,
+   0.878244,
+   1.062809
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.590185,
+   0.406326,
+   0.24218,
+   0.438841,
+   0.428302
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseDebt",
+   "capex = PaymentsForCapitalImprovements",
+   "pretax = IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest / IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+   "net_income = NetIncomeLoss + ProfitLoss",
+   "debt: from last annual report (2025-12-31); not in latest filing"
+  ]
+ },
+ "HST": {
+  "name": "HOST HOTELS & RESORTS, INC.",
+  "cik": "0001070750",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 0.855,
+    "ytd": 0.612,
+    "ytd_prior": 0.562
+   },
+   "interest_expense": {
+    "fy": 0.235,
+    "ytd": 0.117,
+    "ytd_prior": 0.115
+   },
+   "ocf": {
+    "fy": 1.51,
+    "ytd": 0.845,
+    "ytd_prior": 0.749
+   },
+   "capex": {
+    "fy": 0.282,
+    "ytd": 0.103,
+    "ytd_prior": 0.109
+   },
+   "pretax": {
+    "fy": 0.818,
+    "ytd": 0.777,
+    "ytd_prior": 0.502
+   },
+   "tax": {
+    "fy": 0.042,
+    "ytd": 0.035,
+    "ytd_prior": 0.026
+   }
+  },
+  "balance": {
+   "current_assets": null,
+   "current_liabilities": null,
+   "total_assets": 13.253,
+   "total_liabilities": 6.635,
+   "retained_earnings": -0.712,
+   "equity_total": 6.392,
+   "cash": 1.953
+  },
+  "debt_facts": {
+   "DebtAndCapitalLeaseObligations": 5.082
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   6.114,
+   5.684,
+   5.311,
+   4.907,
+   2.89
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.765,
+   0.697,
+   0.74,
+   0.633,
+   -0.011
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "capex = PaymentsForCapitalImprovements",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "IBM": {
+  "name": "INTERNATIONAL BUSINESS MACHINES CORP",
+  "cik": "0000051143",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 1.935,
+    "ytd": 0.959,
+    "ytd_prior": 0.965
+   },
+   "ocf": {
+    "fy": 13.193,
+    "ytd": 7.766,
+    "ytd_prior": 6.071
+   },
+   "capex": {
+    "fy": 1.091,
+    "ytd": 0.461,
+    "ytd_prior": 0.454
+   },
+   "pretax": {
+    "fy": 10.328,
+    "ytd": 3.866,
+    "ytd_prior": 3.755
+   },
+   "tax": {
+    "fy": -0.242,
+    "ytd": 0.484,
+    "ytd_prior": 0.507
+   }
+  },
+  "balance": {
+   "current_assets": 28.398,
+   "current_liabilities": 35.912,
+   "total_assets": 152.099,
+   "total_liabilities": 117.558,
+   "retained_earnings": 155.937,
+   "equity_total": 34.541,
+   "cash": 7.172
+  },
+  "debt_facts": {
+   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 61.985,
+   "LongTermDebtNoncurrent": 56.212,
+   "ShortTermBorrowings": 5.775,
+   "LongTermDebtAndCapitalLeaseObligations": 56.212
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 54.836
+  },
+  "revenue": [
+   67.535,
+   62.753,
+   61.86,
+   60.53,
+   57.35
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   10.593,
+   6.023,
+   7.502,
+   1.639,
+   5.743
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "op_income: none of the mapped concepts tagged"
+  ]
+ },
+ "ADBE": {
+  "name": "ADOBE INC.",
+  "cik": "0000796343",
+  "edgar_k_end": "2025-11-28",
+  "edgar_q_end": "2026-08-28",
+  "ytd_label": "YTD to 2026-08-28",
+  "flows": {
+   "op_income": {
+    "fy": 8.706,
+    "ytd": 7.01,
+    "ytd_prior": 6.445
+   },
+   "interest_expense": {
+    "fy": 0.263,
+    "ytd": 0.194,
+    "ytd_prior": 0.197
+   },
+   "ocf": {
+    "fy": 10.031,
+    "ytd": 7.646,
+    "ytd_prior": 6.871
+   },
+   "capex": {
+    "fy": 0.179,
+    "ytd": 0.18,
+    "ytd_prior": 0.145
+   },
+   "pretax": {
+    "fy": 8.734,
+    "ytd": 7.017,
+    "ytd_prior": 6.47
+   },
+   "tax": {
+    "fy": 1.604,
+    "ytd": 1.589,
+    "ytd_prior": 1.196
+   }
+  },
+  "balance": {
+   "current_assets": 9.158,
+   "current_liabilities": 11.888,
+   "total_assets": 29.981,
+   "total_liabilities": 18.217,
+   "retained_earnings": 50.594,
+   "equity_total": 11.764,
+   "cash": 4.359
+  },
+  "debt_facts": {
+   "LongTermDebt": 4.766,
+   "DebtCurrent": 1.597
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   23.769,
+   21.505,
+   19.409,
+   17.606,
+   15.785
+  ],
+  "revenue_years": [
+   "2025-11-28",
+   "2024-11-29",
+   "2023-12-01",
+   "2022-12-02",
+   "2021-12-03"
+  ],
+  "net_income": [
+   7.13,
+   5.56,
+   5.428,
+   4.756,
+   4.822
+  ],
+  "net_income_years": [
+   "2025-11-28",
+   "2024-11-29",
+   "2023-12-01",
+   "2022-12-02",
+   "2021-12-03"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "APP": {
+  "name": "AppLovin Corporation",
+  "cik": "0001751008",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 4.151914,
+    "ytd": 2.93421,
+    "ytd_prior": 1.797664
+   },
+   "interest_expense": {
+    "fy": 0.200615,
+    "ytd": 0.102315,
+    "ytd_prior": 0.104297
+   },
+   "ocf": {
+    "fy": 3.971094,
+    "ytd": 2.160433,
+    "ytd_prior": 1.603938
+   },
+   "capex": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "pretax": {
+    "fy": 3.95291,
+    "ytd": 2.936934,
+    "ytd_prior": 1.67861
+   },
+   "tax": {
+    "fy": 0.519715,
+    "ytd": 0.464783,
+    "ytd_prior": 0.183216
+   }
+  },
+  "balance": {
+   "current_assets": 5.392316,
+   "current_liabilities": 1.253958,
+   "total_assets": 8.269131,
+   "total_liabilities": 5.106115,
+   "retained_earnings": 2.661753,
+   "equity_total": 3.163016,
+   "cash": 3.053306
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 3.515072
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 3.512987
+  },
+  "revenue": [
+   5.480717,
+   3.224058,
+   1.841762,
+   2.817058,
+   2.793104
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   3.333751,
+   1.579776,
+   0.356711,
+   -0.192746,
+   0.035446
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating / InterestExpenseDebt",
+   "capex: none of the mapped concepts tagged",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "PTC": {
+  "name": "PTC Inc.",
+  "cik": "0000857005",
+  "edgar_k_end": "2025-09-30",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 0.982385,
+    "ytd": 0.683439,
+    "ytd_prior": 0.548816
+   },
+   "interest_expense": {
+    "fy": 0.077019,
+    "ytd": 0.048359,
+    "ytd_prior": 0.060058
+   },
+   "ocf": {
+    "fy": 0.867696,
+    "ytd": 0.851291,
+    "ytd_prior": 0.763666
+   },
+   "capex": {
+    "fy": 0.011008,
+    "ytd": 0.016291,
+    "ytd_prior": 0.007462
+   },
+   "pretax": {
+    "fy": 0.920177,
+    "ytd": 1.102214,
+    "ytd_prior": 0.492079
+   },
+   "tax": {
+    "fy": 0.18618,
+    "ytd": 0.226193,
+    "ytd_prior": 0.105875
+   }
+  },
+  "balance": {
+   "current_assets": 1.371866,
+   "current_liabilities": 1.338109,
+   "total_assets": 6.513577,
+   "total_liabilities": 3.043834,
+   "retained_earnings": 2.959628,
+   "equity_total": 3.469743,
+   "cash": 0.351454
+  },
+  "debt_facts": {
+   "LongTermDebt": 1.398241,
+   "LongTermDebtCurrent": 0.025074
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   2.739226,
+   2.298472,
+   2.097053,
+   1.933347,
+   1.807159
+  ],
+  "revenue_years": [
+   "2025-09-30",
+   "2024-09-30",
+   "2023-09-30",
+   "2022-09-30",
+   "2021-09-30"
+  ],
+  "net_income": [
+   0.733997,
+   0.376333,
+   0.24554,
+   0.313081,
+   0.476923
+  ],
+  "net_income_years": [
+   "2025-09-30",
+   "2024-09-30",
+   "2023-09-30",
+   "2022-09-30",
+   "2021-09-30"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "GDDY": {
+  "name": "GoDaddy Inc.",
+  "cik": "0001609711",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.1273,
+    "ytd": 0.653,
+    "ytd_prior": 0.5136
+   },
+   "interest_expense": {
+    "fy": 0.151,
+    "ytd": 0.0752,
+    "ytd_prior": 0.0755
+   },
+   "ocf": {
+    "fy": 1.5994,
+    "ytd": 0.914,
+    "ytd_prior": 0.7846
+   },
+   "capex": {
+    "fy": 0.0239,
+    "ytd": 0.0097,
+    "ytd_prior": 0.0077
+   },
+   "pretax": {
+    "fy": 1.02,
+    "ytd": 0.5989,
+    "ytd_prior": 0.4591
+   },
+   "tax": {
+    "fy": 0.145,
+    "ytd": 0.1442,
+    "ytd_prior": 0.0397
+   }
+  },
+  "balance": {
+   "current_assets": 1.9728,
+   "current_liabilities": 3.1209,
+   "total_assets": 7.9966,
+   "total_liabilities": null,
+   "retained_earnings": -3.175,
+   "equity_total": 0.0067,
+   "cash": 1.1555
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 3.7594,
+   "LongTermDebtCurrent": 0.015
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 3.7652
+  },
+  "revenue": [
+   4.9511,
+   4.5732,
+   4.2541,
+   4.0913,
+   3.8157
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.875,
+   0.9369,
+   1.3748,
+   0.3522,
+   0.2423
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity",
+   "cash = CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents"
+  ]
+ },
+ "IT": {
+  "name": "Gartner, Inc.",
+  "cik": "0000749251",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.025711,
+    "ytd": 0.694612,
+    "ytd_prior": 0.605128
+   },
+   "interest_expense": {
+    "fy": 0.125277,
+    "ytd": 0.043314,
+    "ytd_prior": 0.025214
+   },
+   "ocf": {
+    "fy": 1.290365,
+    "ytd": 0.789327,
+    "ytd_prior": 0.697077
+   },
+   "capex": {
+    "fy": 0.115142,
+    "ytd": 0.040346,
+    "ytd_prior": 0.061817
+   },
+   "pretax": {
+    "fy": 0.968118,
+    "ytd": 0.647035,
+    "ytd_prior": 0.584801
+   },
+   "tax": {
+    "fy": 0.238887,
+    "ytd": 0.149193,
+    "ytd_prior": 0.133079
+   }
+  },
+  "balance": {
+   "current_assets": 3.224328,
+   "current_liabilities": 3.663304,
+   "total_assets": 7.193674,
+   "total_liabilities": 7.361019,
+   "retained_earnings": 7.22008,
+   "equity_total": -0.167345,
+   "cash": 1.488706
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 2.979281,
+   "LongTermDebtCurrent": 0.0
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 2.976674
+  },
+  "revenue": [
+   6.497226,
+   6.267411,
+   5.906956,
+   5.475846,
+   4.733962
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.729231,
+   1.253715,
+   0.882466,
+   0.807799,
+   0.79356
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "capex = PaymentsForCapitalImprovements",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "BR": {
+  "name": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+  "cik": "0001383312",
+  "edgar_k_end": "2026-06-30",
+  "edgar_q_end": "2026-03-31",
+  "ytd_label": "FY to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.3006,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 0.1118,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 1.3456,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "capex": {
+    "fy": 0.0672,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "pretax": {
+    "fy": 1.4458,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "tax": {
+    "fy": 0.3216,
+    "ytd": null,
+    "ytd_prior": null
+   }
+  },
+  "balance": {
+   "current_assets": 1.7481,
+   "current_liabilities": 1.4148,
+   "total_assets": 8.9453,
+   "total_liabilities": 6.1047,
+   "retained_earnings": 4.5536,
+   "equity_total": 2.8405,
+   "cash": 0.4029
+  },
+  "debt_facts": {
+   "LongTermDebt": 3.2546,
+   "LongTermDebtNoncurrent": 3.2546,
+   "LongTermDebtCurrent": 0.0
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 3.2546
+  },
+  "revenue": [
+   7.4768,
+   6.8891,
+   6.5068,
+   6.0609,
+   5.7091
+  ],
+  "revenue_years": [
+   "2026-06-30",
+   "2025-06-30",
+   "2024-06-30",
+   "2023-06-30",
+   "2022-06-30"
+  ],
+  "net_income": [
+   1.1243,
+   0.8395,
+   0.6981,
+   0.6306,
+   0.5391
+  ],
+  "net_income_years": [
+   "2026-06-30",
+   "2025-06-30",
+   "2024-06-30",
+   "2023-06-30",
+   "2022-06-30"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseDebt",
+   "pretax = _PretaxDomesticPlusForeign",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "FIS": {
+  "name": "Fidelity National Information Services, Inc.",
+  "cik": "0001136893",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.741,
+    "ytd": 0.929,
+    "ytd_prior": 0.755
+   },
+   "interest_expense": {
+    "fy": 0.391,
+    "ytd": 0.397,
+    "ytd_prior": 0.19
+   },
+   "ocf": {
+    "fy": 2.608,
+    "ytd": 1.207,
+    "ytd_prior": 0.839
+   },
+   "capex": {
+    "fy": 0.154,
+    "ytd": 0.076,
+    "ytd_prior": 0.076
+   },
+   "pretax": {
+    "fy": 1.176,
+    "ytd": 0.555,
+    "ytd_prior": 0.37
+   },
+   "tax": {
+    "fy": 0.265,
+    "ytd": 0.17,
+    "ytd_prior": 0.093
+   }
+  },
+  "balance": {
+   "current_assets": 5.274,
+   "current_liabilities": 9.865,
+   "total_assets": 44.106,
+   "total_liabilities": 28.065,
+   "retained_earnings": -20.578,
+   "equity_total": 16.041,
+   "cash": 0.744
+  },
+  "debt_facts": {
+   "LongTermDebt": 16.948,
+   "LongTermDebtNoncurrent": 15.432,
+   "LongTermDebtCurrent": 1.516,
+   "ShortTermBorrowings": 4.226,
+   "LongTermDebtAndCapitalLeaseObligations": 15.432
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 9.069
+  },
+  "revenue": [
+   10.677,
+   10.127,
+   9.831,
+   9.72,
+   9.339
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.382,
+   1.45,
+   -6.655,
+   -16.752,
+   0.417
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "ocf = NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+   "pretax = IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "LOGI": {
+  "name": "LOGITECH INTERNATIONAL S.A.",
+  "cik": "0001032975",
+  "edgar_k_end": "2026-03-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 0.775194,
+    "ytd": 0.258551,
+    "ytd_prior": 0.162094
+   },
+   "interest_expense": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 1.037207,
+    "ytd": 0.166708,
+    "ytd_prior": 0.125045
+   },
+   "capex": {
+    "fy": 0.061562,
+    "ytd": 0.016798,
+    "ytd_prior": 0.016276
+   },
+   "pretax": {
+    "fy": 0.826519,
+    "ytd": 0.27558,
+    "ytd_prior": 0.174485
+   },
+   "tax": {
+    "fy": 0.115332,
+    "ytd": 0.039883,
+    "ytd_prior": 0.02847
+   }
+  },
+  "balance": {
+   "current_assets": 3.121243,
+   "current_liabilities": 1.350464,
+   "total_assets": 4.034065,
+   "total_liabilities": 1.68232,
+   "retained_earnings": 3.596323,
+   "equity_total": 2.351745,
+   "cash": 1.749679
+  },
+  "debt_facts": {},
+  "debt_facts_annual": {},
+  "revenue": [
+   4.840761,
+   4.5549,
+   4.298467,
+   4.538818,
+   5.481101
+  ],
+  "revenue_years": [
+   "2026-03-31",
+   "2025-03-31",
+   "2024-03-31",
+   "2023-03-31",
+   "2022-03-31"
+  ],
+  "net_income": [
+   0.711187,
+   0.631529,
+   0.612143,
+   0.364575,
+   0.644513
+  ],
+  "net_income_years": [
+   "2026-03-31",
+   "2025-03-31",
+   "2024-03-31",
+   "2023-03-31",
+   "2022-03-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense: none of the mapped concepts tagged",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "TEL": {
+  "name": "TE CONNECTIVITY\u00a0PLC",
+  "cik": "0001385157",
+  "edgar_k_end": "2025-09-26",
+  "edgar_q_end": "2026-06-26",
+  "ytd_label": "YTD to 2026-06-26",
+  "flows": {
+   "op_income": {
+    "fy": 3.211,
+    "ytd": 2.898,
+    "ytd_prior": 2.295
+   },
+   "interest_expense": {
+    "fy": 0.077,
+    "ytd": 0.093,
+    "ytd_prior": 0.048
+   },
+   "ocf": {
+    "fy": 4.139,
+    "ytd": 2.997,
+    "ytd_prior": 2.718
+   },
+   "capex": {
+    "fy": 0.936,
+    "ytd": 0.832,
+    "ytd_prior": 0.665
+   },
+   "pretax": {
+    "fy": 3.204,
+    "ytd": 2.874,
+    "ytd_prior": 2.307
+   },
+   "tax": {
+    "fy": 1.361,
+    "ytd": 0.52,
+    "ytd_prior": 1.128
+   }
+  },
+  "balance": {
+   "current_assets": 8.743,
+   "current_liabilities": 4.66,
+   "total_assets": 26.07,
+   "total_liabilities": 12.677,
+   "retained_earnings": 14.5,
+   "equity_total": 13.246,
+   "cash": 1.239
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 5.53,
+   "DebtCurrent": 0.102
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 4.842
+  },
+  "revenue": [
+   17.262,
+   15.845,
+   16.034,
+   16.281,
+   14.923
+  ],
+  "revenue_years": [
+   "2025-09-26",
+   "2024-09-27",
+   "2023-09-29",
+   "2022-09-30",
+   "2021-09-24"
+  ],
+  "net_income": [
+   1.842,
+   3.193,
+   1.91,
+   2.428,
+   2.261
+  ],
+  "net_income_years": [
+   "2025-09-26",
+   "2024-09-27",
+   "2023-09-29",
+   "2022-09-30",
+   "2021-09-24"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "CSL": {
+  "name": "CARLISLE COMPANIES INCORPORATED",
+  "cik": "0000790051",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.0025,
+    "ytd": 0.5328,
+    "ytd_prior": 0.5186
+   },
+   "interest_expense": {
+    "fy": 0.0785,
+    "ytd": 0.0557,
+    "ytd_prior": 0.0295
+   },
+   "ocf": {
+    "fy": 1.1018,
+    "ytd": 0.1971,
+    "ytd_prior": 0.2889
+   },
+   "capex": {
+    "fy": 0.1312,
+    "ytd": 0.07,
+    "ytd_prior": 0.0578
+   },
+   "pretax": {
+    "fy": 0.9488,
+    "ytd": 0.4969,
+    "ytd_prior": 0.4986
+   },
+   "tax": {
+    "fy": 0.2063,
+    "ytd": 0.1115,
+    "ytd_prior": 0.103
+   }
+  },
+  "balance": {
+   "current_assets": 2.2971,
+   "current_liabilities": 0.8834,
+   "total_assets": 6.2347,
+   "total_liabilities": null,
+   "retained_earnings": 7.6253,
+   "equity_total": 1.6172,
+   "cash": 0.6653
+  },
+  "debt_facts": {
+   "LongTermDebt": 2.8899,
+   "LongTermDebtNoncurrent": 2.8849,
+   "LongTermDebtCurrent": 0.005
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 2.8816
+  },
+  "revenue": [
+   5.0199,
+   5.0036,
+   4.5869,
+   5.4494,
+   3.8367
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.7407,
+   1.3118,
+   0.7674,
+   0.924,
+   0.4217
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax + Revenues",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "BMY": {
+  "name": "BRISTOL-MYERS SQUIBB COMPANY",
+  "cik": "0000014272",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 1.891,
+    "ytd": 0.818,
+    "ytd_prior": 0.979
+   },
+   "ocf": {
+    "fy": 14.156,
+    "ytd": 4.497,
+    "ytd_prior": 5.871
+   },
+   "capex": {
+    "fy": 1.311,
+    "ytd": 0.652,
+    "ytd_prior": 0.621
+   },
+   "pretax": {
+    "fy": 9.328,
+    "ytd": 7.326,
+    "ytd_prior": 4.744
+   },
+   "tax": {
+    "fy": 2.272,
+    "ytd": 1.331,
+    "ytd_prior": 0.969
+   }
+  },
+  "balance": {
+   "current_assets": 28.579,
+   "current_liabilities": 18.659,
+   "total_assets": 87.634,
+   "total_liabilities": 65.315,
+   "retained_earnings": 20.316,
+   "equity_total": 22.319,
+   "cash": 8.722
+  },
+  "debt_facts": {
+   "LongTermDebt": 42.861,
+   "LongTermDebtNoncurrent": 42.093,
+   "LongTermDebtCurrent": 0.768,
+   "DebtCurrent": 1.027,
+   "ShortTermBorrowings": 1.027
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 42.85
+  },
+  "revenue": [
+   48.194,
+   48.3,
+   45.006,
+   46.159,
+   46.385
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   7.054,
+   -8.948,
+   8.025,
+   6.327,
+   6.994
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "op_income: none of the mapped concepts tagged",
+   "interest_expense = InterestExpenseNonoperating"
+  ]
+ },
+ "BSX": {
+  "name": "BOSTON SCIENTIFIC CORPORATION",
+  "cik": "0000885725",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 3.613,
+    "ytd": 2.279,
+    "ytd_prior": 1.74
+   },
+   "interest_expense": {
+    "fy": 0.349,
+    "ytd": 0.186,
+    "ytd_prior": 0.172
+   },
+   "ocf": {
+    "fy": 4.534,
+    "ytd": 1.822,
+    "ytd_prior": 1.827
+   },
+   "capex": {
+    "fy": 0.876,
+    "ytd": 0.372,
+    "ytd_prior": 0.344
+   },
+   "pretax": {
+    "fy": 3.385,
+    "ytd": 2.222,
+    "ytd_prior": 1.746
+   },
+   "tax": {
+    "fy": 0.493,
+    "ytd": -0.021,
+    "ytd_prior": 0.279
+   }
+  },
+  "balance": {
+   "current_assets": 7.972,
+   "current_liabilities": 6.428,
+   "total_assets": 45.216,
+   "total_liabilities": null,
+   "retained_earnings": 7.818,
+   "equity_total": 25.172,
+   "cash": 0.539
+  },
+  "debt_facts": {
+   "DebtCurrent": 1.709,
+   "LongTermDebtAndCapitalLeaseObligations": 10.915
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   20.074,
+   16.747,
+   14.24,
+   12.682,
+   11.888
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   2.892,
+   1.846,
+   1.592,
+   0.698,
+   1.041
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "net_income = ProfitLoss"
+  ]
+ },
+ "ZTS": {
+  "name": "Zoetis Inc.",
+  "cik": "0001555280",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 0.222,
+    "ytd": 0.123,
+    "ytd_prior": 0.107
+   },
+   "ocf": {
+    "fy": 2.904,
+    "ytd": 1.056,
+    "ytd_prior": 1.12
+   },
+   "capex": {
+    "fy": 0.621,
+    "ytd": 0.227,
+    "ytd_prior": 0.324
+   },
+   "pretax": {
+    "fy": 3.36,
+    "ytd": 1.624,
+    "ytd_prior": 1.685
+   },
+   "tax": {
+    "fy": 0.687,
+    "ytd": 0.332,
+    "ytd_prior": 0.357
+   }
+  },
+  "balance": {
+   "current_assets": 6.356,
+   "current_liabilities": 2.061,
+   "total_assets": 15.077,
+   "total_liabilities": 11.929,
+   "retained_earnings": 14.653,
+   "equity_total": 3.148,
+   "cash": 1.476
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 9.048,
+   "CommercialPaper": 0.0
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 9.042
+  },
+  "revenue": [
+   9.467,
+   9.256,
+   8.544,
+   8.08,
+   7.776
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   2.673,
+   2.486,
+   2.344,
+   2.114,
+   2.037
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "op_income: none of the mapped concepts tagged"
+  ]
+ },
+ "RMD": {
+  "name": "ResMed Inc.",
+  "cik": "0000943819",
+  "edgar_k_end": "2026-06-30",
+  "edgar_q_end": "2026-03-31",
+  "ytd_label": "FY to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.886715,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 0.027057,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 1.805829,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "capex": {
+    "fy": 0.156285,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "pretax": {
+    "fy": 1.919416,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "tax": {
+    "fy": 0.396123,
+    "ytd": null,
+    "ytd_prior": null
+   }
+  },
+  "balance": {
+   "current_assets": 4.324739,
+   "current_liabilities": 1.39511,
+   "total_assets": 8.96595,
+   "total_liabilities": 2.380557,
+   "retained_earnings": 7.255121,
+   "equity_total": 6.585393,
+   "cash": 1.469234
+  },
+  "debt_facts": {
+   "LongTermDebt": 0.399415,
+   "ShortTermBorrowings": 0.25995
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   5.653443,
+   5.146327,
+   4.685297,
+   4.222993,
+   3.578127
+  ],
+  "revenue_years": [
+   "2026-06-30",
+   "2025-06-30",
+   "2024-06-30",
+   "2023-06-30",
+   "2022-06-30"
+  ],
+  "net_income": [
+   1.523293,
+   1.400723,
+   1.020951,
+   0.897556,
+   0.779437
+  ],
+  "net_income_years": [
+   "2026-06-30",
+   "2025-06-30",
+   "2024-06-30",
+   "2023-06-30",
+   "2022-06-30"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestPaidNet",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "UTHR": {
+  "name": "United Therapeutics Corporation",
+  "cik": "0001082554",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.4925,
+    "ytd": 0.6566,
+    "ytd_prior": 0.7473
+   },
+   "interest_expense": {
+    "fy": 0.0195,
+    "ytd": 0.0059,
+    "ytd_prior": 0.0134
+   },
+   "ocf": {
+    "fy": 1.5612,
+    "ytd": 0.7769,
+    "ytd_prior": 0.6529
+   },
+   "capex": {
+    "fy": 0.5205,
+    "ytd": 0.2088,
+    "ytd_prior": 0.1371
+   },
+   "pretax": {
+    "fy": 1.7139,
+    "ytd": 0.691,
+    "ytd_prior": 0.8319
+   },
+   "tax": {
+    "fy": 0.3792,
+    "ytd": 0.0831,
+    "ytd_prior": 0.2002
+   }
+  },
+  "balance": {
+   "current_assets": 3.4837,
+   "current_liabilities": 0.6078,
+   "total_assets": 7.2201,
+   "total_liabilities": 0.8198,
+   "retained_earnings": 9.1648,
+   "equity_total": 6.4003,
+   "cash": 1.8032
+  },
+  "debt_facts": {},
+  "debt_facts_annual": {},
+  "revenue": [
+   3.1827,
+   2.8774,
+   2.3275,
+   1.9363,
+   1.6855
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   1.3347,
+   1.1951,
+   0.9848,
+   0.7273,
+   0.4758
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "INCY": {
+  "name": "INCYTE CORPORATION",
+  "cik": "0000879169",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-03-31",
+  "ytd_label": "YTD to 2026-03-31",
+  "flows": {
+   "op_income": {
+    "fy": 1.514859,
+    "ytd": 0.301117,
+    "ytd_prior": 0.205168
+   },
+   "interest_expense": {
+    "fy": 0.002428,
+    "ytd": 0.000569,
+    "ytd_prior": 0.00066
+   },
+   "ocf": {
+    "fy": 1.413498,
+    "ytd": 0.369351,
+    "ytd_prior": 0.266067
+   },
+   "capex": {
+    "fy": 0.058867,
+    "ytd": 0.0102,
+    "ytd_prior": 0.003169
+   },
+   "pretax": {
+    "fy": 1.664451,
+    "ytd": 0.3436,
+    "ytd_prior": 0.23419
+   },
+   "tax": {
+    "fy": 0.377801,
+    "ytd": 0.04027,
+    "ytd_prior": 0.075987
+   }
+  },
+  "balance": {
+   "current_assets": 5.48426,
+   "current_liabilities": 1.489649,
+   "total_assets": 7.339113,
+   "total_liabilities": 1.716266,
+   "retained_earnings": 0.517099,
+   "equity_total": 5.622847,
+   "cash": 3.461114
+  },
+  "debt_facts": {},
+  "debt_facts_annual": {},
+  "revenue": [
+   5.141242,
+   4.241217,
+   3.695649,
+   3.394635,
+   2.986267
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   1.28665,
+   0.032615,
+   0.597599,
+   0.34066,
+   0.948581
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "capex = PaymentsToAcquireOtherProductiveAssets",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax + Revenues",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "JAZZ": {
+  "name": "Jazz Pharmaceuticals plc",
+  "cik": "0001232524",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": -0.43024,
+    "ytd": 0.5848,
+    "ytd_prior": -0.7423
+   },
+   "interest_expense": {
+    "fy": 0.248553,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 1.355773,
+    "ytd": 0.8239,
+    "ytd_prior": 0.5186
+   },
+   "capex": {
+    "fy": 0.058752,
+    "ytd": 0.0378,
+    "ytd_prior": 0.0268
+   },
+   "pretax": {
+    "fy": -0.627859,
+    "ytd": 0.5102,
+    "ytd_prior": -0.8454
+   },
+   "tax": {
+    "fy": -0.272443,
+    "ytd": 0.0242,
+    "ytd_prior": -0.035
+   }
+  },
+  "balance": {
+   "current_assets": 3.9682,
+   "current_liabilities": 2.2308,
+   "total_assets": 11.0809,
+   "total_liabilities": null,
+   "retained_earnings": 1.132,
+   "equity_total": 4.8017,
+   "cash": 1.6198
+  },
+  "debt_facts": {
+   "LongTermDebt": 4.3514,
+   "LongTermDebtNoncurrent": 3.335,
+   "LongTermDebtCurrent": 1.0164
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 4.3284
+  },
+  "revenue": [
+   4.267586,
+   4.06895,
+   3.834204,
+   3.659374,
+   3.094238
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   -0.356148,
+   0.56012,
+   0.414832,
+   -0.22406,
+   -0.329668
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestPaidNet",
+   "pretax = IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "NBIX": {
+  "name": "NEUROCRINE BIOSCIENCES INC",
+  "cik": "0000914475",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 0.6191,
+    "ytd": 0.3449,
+    "ytd_prior": 0.1692
+   },
+   "interest_expense": {
+    "fy": 0.0,
+    "ytd": 0.0029,
+    "ytd_prior": 0.0
+   },
+   "ocf": {
+    "fy": 0.7827,
+    "ytd": 0.2822,
+    "ytd_prior": 0.1668
+   },
+   "capex": {
+    "fy": 0.034,
+    "ytd": 0.0169,
+    "ytd_prior": 0.0232
+   },
+   "pretax": {
+    "fy": 0.7054,
+    "ytd": 0.409,
+    "ytd_prior": 0.1742
+   },
+   "tax": {
+    "fy": 0.2268,
+    "ytd": 0.0667,
+    "ytd_prior": 0.0588
+   }
+  },
+  "balance": {
+   "current_assets": 1.6375,
+   "current_liabilities": 0.8745,
+   "total_assets": 5.3591,
+   "total_liabilities": 1.6655,
+   "retained_earnings": 0.724,
+   "equity_total": 3.6936,
+   "cash": 0.3324
+  },
+  "debt_facts": {},
+  "debt_facts_annual": {},
+  "revenue": [
+   2.8605,
+   2.3553,
+   1.8871,
+   1.4887,
+   1.1335
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.4786,
+   0.3413,
+   0.2497,
+   0.1545,
+   0.0896
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating / InterestPaidNet",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "EXEL": {
+  "name": "Exelixis Inc",
+  "cik": "0000939767",
+  "edgar_k_end": "2026-01-02",
+  "edgar_q_end": "2026-07-03",
+  "ytd_label": "YTD to 2026-07-03",
+  "flows": {
+   "op_income": {
+    "fy": 0.872191,
+    "ytd": 0.499755,
+    "ytd_prior": 0.400435
+   },
+   "interest_expense": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 0.884267,
+    "ytd": 0.559586,
+    "ytd_prior": 0.26043
+   },
+   "capex": {
+    "fy": 0.008429,
+    "ytd": 0.008325,
+    "ytd_prior": 0.00579
+   },
+   "pretax": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "tax": {
+    "fy": 0.158636,
+    "ytd": 0.107848,
+    "ytd_prior": 0.091641
+   }
+  },
+  "balance": {
+   "current_assets": 1.250822,
+   "current_liabilities": 0.361927,
+   "total_assets": 2.494234,
+   "total_liabilities": 0.650472,
+   "retained_earnings": -0.262533,
+   "equity_total": 1.843762,
+   "cash": 0.281448
+  },
+  "debt_facts": {},
+  "debt_facts_annual": {},
+  "revenue": [
+   2.320126,
+   2.168701,
+   1.830208,
+   1.611062,
+   1.43497
+  ],
+  "revenue_years": [
+   "2026-01-02",
+   "2025-01-03",
+   "2023-12-29",
+   "2022-12-30",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.78257,
+   0.521267,
+   0.207765,
+   0.182282,
+   0.231063
+  ],
+  "net_income_years": [
+   "2026-01-02",
+   "2025-01-03",
+   "2023-12-29",
+   "2022-12-30",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense: none of the mapped concepts tagged",
+   "pretax: none of the mapped concepts tagged",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "THC": {
+  "name": "TENET HEALTHCARE CORP",
+  "cik": "0000070318",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 3.508,
+    "ytd": 2.797,
+    "ytd_prior": 1.766
+   },
+   "interest_expense": {
+    "fy": 0.821,
+    "ytd": 0.409,
+    "ytd_prior": 0.41
+   },
+   "ocf": {
+    "fy": 3.54,
+    "ytd": 2.226,
+    "ytd_prior": 1.751
+   },
+   "capex": {
+    "fy": 1.01,
+    "ytd": 0.348,
+    "ytd_prior": 0.366
+   },
+   "pretax": {
+    "fy": 2.8,
+    "ytd": 2.472,
+    "ytd_prior": 1.407
+   },
+   "tax": {
+    "fy": 0.433,
+    "ytd": 0.521,
+    "ytd_prior": 0.263
+   }
+  },
+  "balance": {
+   "current_assets": 7.827,
+   "current_liabilities": 5.567,
+   "total_assets": 30.676,
+   "total_liabilities": 21.976,
+   "retained_earnings": 5.943,
+   "equity_total": 6.557,
+   "cash": 2.17
+  },
+  "debt_facts": {
+   "DebtAndCapitalLeaseObligations": 13.248,
+   "LongTermDebtAndCapitalLeaseObligations": 13.088
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   21.31,
+   20.675,
+   20.564,
+   19.174,
+   19.485
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   2.367,
+   4.064,
+   1.311,
+   1.001,
+   1.476
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "net_income = ProfitLoss"
+  ]
+ },
+ "EHC": {
+  "name": "Encompass Health Corporation",
+  "cik": "0000785161",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 0.1232,
+    "ytd": 0.0646,
+    "ytd_prior": 0.0622
+   },
+   "ocf": {
+    "fy": 1.1756,
+    "ytd": 0.5957,
+    "ytd_prior": 0.5588
+   },
+   "capex": {
+    "fy": 0.7364,
+    "ytd": 0.3827,
+    "ytd_prior": 0.32
+   },
+   "pretax": {
+    "fy": 0.953,
+    "ytd": 0.5503,
+    "ytd_prior": 0.4754
+   },
+   "tax": {
+    "fy": 0.1929,
+    "ytd": 0.11,
+    "ytd_prior": 0.0926
+   }
+  },
+  "balance": {
+   "current_assets": 1.041,
+   "current_liabilities": 0.8734,
+   "total_assets": 7.4575,
+   "total_liabilities": 3.9964,
+   "retained_earnings": 1.2894,
+   "equity_total": 3.4032,
+   "cash": 0.1077
+  },
+  "debt_facts": {
+   "DebtAndCapitalLeaseObligations": 2.634,
+   "LongTermDebtAndCapitalLeaseObligations": 2.5981
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   5.9352,
+   5.3732,
+   4.8012,
+   4.3486,
+   4.0149
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.5662,
+   0.4557,
+   0.352,
+   0.271,
+   0.4122
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "op_income: none of the mapped concepts tagged",
+   "interest_expense = InterestExpenseNonoperating",
+   "ocf = NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+   "capex = PaymentsToAcquireProductiveAssets",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "retained_earnings: from last annual report (2025-12-31); not in latest filing"
+  ]
+ },
+ "TMUS": {
+  "name": "T-MOBILE US, INC.",
+  "cik": "0001283699",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 18.279,
+    "ytd": 9.987,
+    "ytd_prior": 10.013
+   },
+   "interest_expense": {
+    "fy": 3.882,
+    "ytd": 2.173,
+    "ytd_prior": 1.926
+   },
+   "ocf": {
+    "fy": 27.95,
+    "ytd": 14.722,
+    "ytd_prior": 13.839
+   },
+   "capex": {
+    "fy": 9.955,
+    "ytd": 5.326,
+    "ytd_prior": 4.847
+   },
+   "pretax": {
+    "fy": 14.281,
+    "ytd": 7.662,
+    "ytd_prior": 8.118
+   },
+   "tax": {
+    "fy": 3.289,
+    "ytd": 1.919,
+    "ytd_prior": 1.943
+   }
+  },
+  "balance": {
+   "current_assets": 21.769,
+   "current_liabilities": 23.554,
+   "total_assets": 213.553,
+   "total_liabilities": null,
+   "retained_earnings": 24.688,
+   "equity_total": 56.265,
+   "cash": 2.825
+  },
+  "debt_facts": {
+   "ShortTermBorrowings": 6.117
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 81.147
+  },
+  "revenue": [
+   88.309,
+   81.4,
+   78.558,
+   79.571,
+   80.118
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   10.992,
+   11.339,
+   8.317,
+   2.59,
+   3.024
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestPaidNet",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "T": {
+  "name": "AT&T INC.",
+  "cik": "0000732717",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 24.162,
+    "ytd": 13.696,
+    "ytd_prior": 12.255
+   },
+   "interest_expense": {
+    "fy": 6.804,
+    "ytd": 3.696,
+    "ytd_prior": 3.313
+   },
+   "ocf": {
+    "fy": 40.284,
+    "ytd": 18.396,
+    "ytd_prior": 18.812
+   },
+   "capex": {
+    "fy": 20.842,
+    "ytd": 10.577,
+    "ytd_prior": 9.174
+   },
+   "pretax": {
+    "fy": 27.007,
+    "ytd": 11.22,
+    "ytd_prior": 12.089
+   },
+   "tax": {
+    "fy": 3.621,
+    "ytd": 1.963,
+    "ytd_prior": 2.536
+   }
+  },
+  "balance": {
+   "current_assets": 51.834,
+   "current_liabilities": 53.382,
+   "total_assets": 428.359,
+   "total_liabilities": null,
+   "retained_earnings": 20.293,
+   "equity_total": 126.434,
+   "cash": 17.57
+  },
+  "debt_facts": {
+   "DebtCurrent": 9.323,
+   "LongTermDebtAndCapitalLeaseObligations": 134.631
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   125.648,
+   122.336,
+   122.428,
+   120.741,
+   134.038
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   21.953,
+   10.948,
+   14.4,
+   -8.524,
+   20.081
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "ocf = NetCashProvidedByUsedInOperatingActivities / NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+   "capex = PaymentsToAcquireProductiveAssets"
+  ]
+ },
+ "NEE": {
+  "name": "NEXTERA ENERGY INC",
+  "cik": "0000753308",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-03-31",
+  "ytd_label": "YTD to 2026-03-31",
+  "flows": {
+   "op_income": {
+    "fy": 8.28,
+    "ytd": 2.208,
+    "ytd_prior": 2.256
+   },
+   "interest_expense": {
+    "fy": 3.501,
+    "ytd": 1.031,
+    "ytd_prior": 0.631
+   },
+   "ocf": {
+    "fy": 12.485,
+    "ytd": 2.614,
+    "ytd_prior": 2.769
+   },
+   "capex": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "pretax": {
+    "fy": 4.53,
+    "ytd": 1.199,
+    "ytd_prior": -0.057
+   },
+   "tax": {
+    "fy": -0.802,
+    "ytd": -0.489,
+    "ytd_prior": -0.521
+   }
+  },
+  "balance": {
+   "current_assets": 13.858,
+   "current_liabilities": 25.573,
+   "total_assets": 221.424,
+   "total_liabilities": 154.792,
+   "retained_earnings": 35.984,
+   "equity_total": 66.632,
+   "cash": 1.998
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 93.948,
+   "LongTermDebtCurrent": 3.837,
+   "CommercialPaper": 5.36
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 89.556
+  },
+  "revenue": [
+   27.412,
+   24.753,
+   28.114,
+   20.956,
+   17.069
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   6.835,
+   6.946,
+   7.31,
+   4.147,
+   3.573
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestPaidNet",
+   "capex: none of the mapped concepts tagged",
+   "revenue = RegulatedAndUnregulatedOperatingRevenue"
+  ]
+ },
+ "EIX": {
+  "name": "EDISON INTERNATIONAL",
+  "cik": "0000827052",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-03-31",
+  "ytd_label": "YTD to 2026-03-31",
+  "flows": {
+   "op_income": {
+    "fy": 7.093,
+    "ytd": 1.074,
+    "ytd_prior": 2.134
+   },
+   "interest_expense": {
+    "fy": 1.539,
+    "ytd": 0.524,
+    "ytd_prior": 0.301
+   },
+   "ocf": {
+    "fy": 5.8,
+    "ytd": 1.427,
+    "ytd_prior": 1.224
+   },
+   "capex": {
+    "fy": 6.515,
+    "ytd": 1.539,
+    "ytd_prior": 1.408
+   },
+   "pretax": {
+    "fy": 5.992,
+    "ytd": 0.671,
+    "ytd_prior": 1.94
+   },
+   "tax": {
+    "fy": 1.291,
+    "ytd": 0.101,
+    "ytd_prior": 0.448
+   }
+  },
+  "balance": {
+   "current_assets": 7.176,
+   "current_liabilities": 9.7,
+   "total_assets": 94.475,
+   "total_liabilities": 75.591,
+   "retained_earnings": 10.899,
+   "equity_total": 18.884,
+   "cash": 0.168
+  },
+  "debt_facts": {
+   "LongTermDebt": 40.307,
+   "LongTermDebtNoncurrent": 37.311,
+   "LongTermDebtCurrent": 2.996,
+   "ShortTermBorrowings": 1.242
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 36.07
+  },
+  "revenue": [
+   19.317,
+   17.599,
+   16.338,
+   17.22,
+   14.905
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   4.459,
+   1.284,
+   1.197,
+   0.824,
+   0.925
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "net_income = NetIncomeLoss + ProfitLoss"
+  ]
+ },
+ "AES": {
+  "name": "THE AES CORPORATION",
+  "cik": "0000874761",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 1.407,
+    "ytd": 0.721,
+    "ytd_prior": 0.694
+   },
+   "ocf": {
+    "fy": 4.306,
+    "ytd": 2.247,
+    "ytd_prior": 1.521
+   },
+   "capex": {
+    "fy": 5.929,
+    "ytd": 3.409,
+    "ytd_prior": 2.586
+   },
+   "pretax": {
+    "fy": 0.075,
+    "ytd": 0.691,
+    "ytd_prior": 0.017
+   },
+   "tax": {
+    "fy": -0.181,
+    "ytd": -0.013,
+    "ytd_prior": 0.184
+   }
+  },
+  "balance": {
+   "current_assets": 6.403,
+   "current_liabilities": 8.578,
+   "total_assets": 54.238,
+   "total_liabilities": null,
+   "retained_earnings": 1.429,
+   "equity_total": 9.772,
+   "cash": 1.8
+  },
+  "debt_facts": {},
+  "debt_facts_annual": {},
+  "revenue": [
+   12.233,
+   12.278,
+   12.668,
+   12.617,
+   11.141
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   0.91,
+   1.679,
+   0.249,
+   -0.546,
+   -0.409
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "op_income: none of the mapped concepts tagged",
+   "pretax = IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments"
+  ]
+ },
+ "RCL": {
+  "name": "ROYAL CARIBBEAN CRUISES LTD",
+  "cik": "0000884887",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 4.91,
+    "ytd": 2.469,
+    "ytd_prior": 2.275
+   },
+   "interest_expense": {
+    "fy": 0.992,
+    "ytd": 0.514,
+    "ytd_prior": 0.477
+   },
+   "ocf": {
+    "fy": 6.465,
+    "ytd": 3.694,
+    "ytd_prior": 3.373
+   },
+   "capex": {
+    "fy": 5.229,
+    "ytd": 3.237,
+    "ytd_prior": 1.264
+   },
+   "pretax": {
+    "fy": 4.373,
+    "ytd": 2.126,
+    "ytd_prior": 1.983
+   },
+   "tax": {
+    "fy": 0.082,
+    "ytd": 0.039,
+    "ytd_prior": 0.033
+   }
+  },
+  "balance": {
+   "current_assets": 2.433,
+   "current_liabilities": 11.655,
+   "total_assets": 44.644,
+   "total_liabilities": 34.183,
+   "retained_earnings": 7.187,
+   "equity_total": 10.461,
+   "cash": 0.875
+  },
+  "debt_facts": {
+   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 23.407,
+   "DebtCurrent": 1.573,
+   "LongTermDebtAndCapitalLeaseObligations": 21.263
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   17.935,
+   16.484,
+   13.9,
+   8.84,
+   1.532
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   4.268,
+   2.877,
+   1.697,
+   -2.156,
+   -5.26
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "CCL": {
+  "name": "Carnival Corp Ltd.",
+  "cik": "0000815097",
+  "edgar_k_end": "2025-11-30",
+  "edgar_q_end": "2026-08-31",
+  "ytd_label": "YTD to 2026-08-31",
+  "flows": {
+   "op_income": {
+    "fy": 4.483,
+    "ytd": 3.678,
+    "ytd_prior": 3.748
+   },
+   "interest_expense": {
+    "fy": 1.349,
+    "ytd": 0.862,
+    "ytd_prior": 1.034
+   },
+   "ocf": {
+    "fy": 6.218,
+    "ytd": 5.303,
+    "ytd_prior": 4.7
+   },
+   "capex": {
+    "fy": 3.611,
+    "ytd": 2.139,
+    "ytd_prior": 2.105
+   },
+   "pretax": {
+    "fy": 2.772,
+    "ytd": 2.774,
+    "ytd_prior": 2.377
+   },
+   "tax": {
+    "fy": 0.012,
+    "ytd": 0.05,
+    "ytd_prior": 0.03
+   }
+  },
+  "balance": {
+   "current_assets": 3.421,
+   "current_liabilities": 12.475,
+   "total_assets": 50.971,
+   "total_liabilities": null,
+   "retained_earnings": 6.712,
+   "equity_total": 14.207,
+   "cash": 1.22
+  },
+  "debt_facts": {
+   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 23.912,
+   "LongTermDebt": 24.559,
+   "LongTermDebtNoncurrent": 21.876,
+   "LongTermDebtCurrent": 2.036
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 24.037
+  },
+  "revenue": [
+   26.622,
+   25.021,
+   21.593,
+   12.168,
+   1.908
+  ],
+  "revenue_years": [
+   "2025-11-30",
+   "2024-11-30",
+   "2023-11-30",
+   "2022-11-30",
+   "2021-11-30"
+  ],
+  "net_income": [
+   2.76,
+   1.916,
+   -0.074,
+   -6.093,
+   -9.501
+  ],
+  "net_income_years": [
+   "2025-11-30",
+   "2024-11-30",
+   "2023-11-30",
+   "2022-11-30",
+   "2021-11-30"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "EXPE": {
+  "name": "EXPEDIA GROUP, INC.",
+  "cik": "0001324424",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.871,
+    "ytd": 1.051,
+    "ytd_prior": 0.415
+   },
+   "interest_expense": {
+    "fy": 0.299,
+    "ytd": 0.172,
+    "ytd_prior": 0.116
+   },
+   "ocf": {
+    "fy": 3.88,
+    "ytd": 5.409,
+    "ytd_prior": 4.073
+   },
+   "capex": {
+    "fy": 0.77,
+    "ytd": 0.383,
+    "ytd_prior": 0.396
+   },
+   "pretax": {
+    "fy": 1.591,
+    "ytd": 1.052,
+    "ytd_prior": 0.206
+   },
+   "tax": {
+    "fy": 0.29,
+    "ytd": 0.189,
+    "ytd_prior": 0.081
+   }
+  },
+  "balance": {
+   "current_assets": 16.302,
+   "current_liabilities": 20.354,
+   "total_assets": 29.061,
+   "total_liabilities": null,
+   "retained_earnings": 2.452,
+   "equity_total": 2.471,
+   "cash": 6.682
+  },
+  "debt_facts": {
+   "LongTermDebt": 5.459,
+   "LongTermDebtNoncurrent": 5.459,
+   "LongTermDebtCurrent": 0.0
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 4.469
+  },
+  "revenue": [
+   14.733,
+   13.691,
+   12.839,
+   11.667,
+   8.598
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   1.294,
+   1.234,
+   0.797,
+   0.352,
+   0.012
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "LVS": {
+  "name": "LAS VEGAS SANDS CORP.",
+  "cik": "0001300514",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 2.818,
+    "ytd": 1.522,
+    "ytd_prior": 1.392
+   },
+   "interest_expense": {
+    "fy": 0.746,
+    "ytd": 0.377,
+    "ytd_prior": 0.368
+   },
+   "ocf": {
+    "fy": 3.023,
+    "ytd": 1.413,
+    "ytd_prior": 0.704
+   },
+   "capex": {
+    "fy": 1.168,
+    "ytd": 0.526,
+    "ytd_prior": 0.665
+   },
+   "pretax": {
+    "fy": 2.213,
+    "ytd": 1.209,
+    "ytd_prior": 1.08
+   },
+   "tax": {
+    "fy": 0.347,
+    "ytd": 0.195,
+    "ytd_prior": 0.153
+   }
+  },
+  "balance": {
+   "current_assets": 4.297,
+   "current_liabilities": 4.311,
+   "total_assets": 19.909,
+   "total_liabilities": 19.012,
+   "retained_earnings": 4.9,
+   "equity_total": 0.897,
+   "cash": 3.376
+  },
+  "debt_facts": {
+   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 15.262,
+   "LongTermDebtAndCapitalLeaseObligations": 13.694
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   13.017,
+   11.298,
+   10.372,
+   4.11,
+   4.234
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   1.627,
+   1.446,
+   1.221,
+   1.832,
+   -0.961
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts"
+  ]
+ },
+ "TPR": {
+  "name": "Tapestry, Inc.",
+  "cik": "0001116132",
+  "edgar_k_end": "2026-06-27",
+  "edgar_q_end": "2026-03-28",
+  "ytd_label": "FY to 2026-06-27",
+  "flows": {
+   "op_income": {
+    "fy": 1.9144,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 0.1193,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 1.9785,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "capex": {
+    "fy": 0.166,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "pretax": {
+    "fy": 1.8606,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "tax": {
+    "fy": 0.3329,
+    "ytd": null,
+    "ytd_prior": null
+   }
+  },
+  "balance": {
+   "current_assets": 2.8823,
+   "current_liabilities": 1.645,
+   "total_assets": 6.6917,
+   "total_liabilities": 5.9996,
+   "retained_earnings": -3.2097,
+   "equity_total": 0.6921,
+   "cash": 0.9747
+  },
+  "debt_facts": {
+   "LongTermDebt": 2.379,
+   "LongTermDebtNoncurrent": 2.3966,
+   "LongTermDebtCurrent": 0.0
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 2.3966
+  },
+  "revenue": [
+   8.0042,
+   7.0107,
+   6.6712,
+   6.6609,
+   6.6845
+  ],
+  "revenue_years": [
+   "2026-06-27",
+   "2025-06-28",
+   "2024-06-29",
+   "2023-07-01",
+   "2022-07-02"
+  ],
+  "net_income": [
+   1.5277,
+   0.1832,
+   0.816,
+   0.936,
+   0.8563
+  ],
+  "net_income_years": [
+   "2026-06-27",
+   "2025-06-28",
+   "2024-06-29",
+   "2023-07-01",
+   "2022-07-02"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseDebt",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "DECK": {
+  "name": "DECKERS OUTDOOR CORP",
+  "cik": "0000910521",
+  "edgar_k_end": "2026-03-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.262903,
+    "ytd": 0.155301,
+    "ytd_prior": 0.165287
+   },
+   "interest_expense": {
+    "fy": 0.00253,
+    "ytd": 0.002227,
+    "ytd_prior": 0.000935
+   },
+   "ocf": {
+    "fy": 1.181955,
+    "ytd": 0.047904,
+    "ytd_prior": 0.036146
+   },
+   "capex": {
+    "fy": 0.084623,
+    "ytd": 0.015222,
+    "ytd_prior": 0.02394
+   },
+   "pretax": {
+    "fy": 1.326356,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "tax": {
+    "fy": 0.302285,
+    "ytd": 0.039078,
+    "ytd_prior": 0.043863
+   }
+  },
+  "balance": {
+   "current_assets": 2.922029,
+   "current_liabilities": 1.063631,
+   "total_assets": 3.868621,
+   "total_liabilities": null,
+   "retained_earnings": 2.034898,
+   "equity_total": 2.301682,
+   "cash": 1.602589
+  },
+  "debt_facts": {},
+  "debt_facts_annual": {},
+  "revenue": [
+   5.472296,
+   4.985612,
+   4.287763,
+   3.627286,
+   3.150339
+  ],
+  "revenue_years": [
+   "2026-03-31",
+   "2025-03-31",
+   "2024-03-31",
+   "2023-03-31",
+   "2022-03-31"
+  ],
+  "net_income": [
+   1.024071,
+   0.966091,
+   0.759563,
+   0.516822,
+   0.451949
+  ],
+  "net_income_years": [
+   "2026-03-31",
+   "2025-03-31",
+   "2024-03-31",
+   "2023-03-31",
+   "2022-03-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "pretax = _PretaxDomesticPlusForeign",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "LULU": {
+  "name": "lululemon athletica inc.",
+  "cik": "0001397187",
+  "edgar_k_end": "2026-02-01",
+  "edgar_q_end": "2026-08-02",
+  "ytd_label": "YTD to 2026-08-02",
+  "flows": {
+   "op_income": {
+    "fy": 2.210615,
+    "ytd": 0.730599,
+    "ytd_prior": 0.962439
+   },
+   "interest_expense": {
+    "fy": 0.001028,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 1.602477,
+    "ytd": 0.589278,
+    "ytd_prior": 0.209722
+   },
+   "capex": {
+    "fy": 0.680802,
+    "ytd": 0.277056,
+    "ytd_prior": 0.330161
+   },
+   "pretax": {
+    "fy": 2.238967,
+    "ytd": 0.753428,
+    "ytd_prior": 0.983962
+   },
+   "tax": {
+    "fy": 0.659784,
+    "ytd": 0.229157,
+    "ytd_prior": 0.298485
+   }
+  },
+  "balance": {
+   "current_assets": 3.945587,
+   "current_liabilities": 1.801651,
+   "total_assets": 8.484578,
+   "total_liabilities": 3.693404,
+   "retained_earnings": 4.364017,
+   "equity_total": 4.791174,
+   "cash": 1.389737
+  },
+  "debt_facts": {
+   "ShortTermBorrowings": 0.0
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   11.1026,
+   10.588126,
+   9.619278,
+   8.110518,
+   6.256617
+  ],
+  "revenue_years": [
+   "2026-02-01",
+   "2025-02-02",
+   "2024-01-28",
+   "2023-01-29",
+   "2022-01-30"
+  ],
+  "net_income": [
+   1.579183,
+   1.814616,
+   1.55019,
+   0.8548,
+   0.975322
+  ],
+  "net_income_years": [
+   "2026-02-01",
+   "2025-02-02",
+   "2024-01-28",
+   "2023-01-29",
+   "2022-01-30"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestPaidNet",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity",
+   "cash = CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents"
+  ]
+ },
+ "STZ": {
+  "name": "CONSTELLATION BRANDS, INC.",
+  "cik": "0000016918",
+  "edgar_k_end": "2026-02-28",
+  "edgar_q_end": "2026-08-31",
+  "ytd_label": "YTD to 2026-08-31",
+  "flows": {
+   "op_income": {
+    "fy": 2.7214,
+    "ytd": 1.6503,
+    "ytd_prior": 1.5878
+   },
+   "interest_expense": {
+    "fy": 0.3616,
+    "ytd": 0.173,
+    "ytd_prior": 0.1896
+   },
+   "ocf": {
+    "fy": 2.669,
+    "ytd": 1.4786,
+    "ytd_prior": 1.4893
+   },
+   "capex": {
+    "fy": 0.875,
+    "ytd": 0.3541,
+    "ytd_prior": 0.4101
+   },
+   "pretax": {
+    "fy": 2.3778,
+    "ytd": 1.4894,
+    "ytd_prior": 1.3943
+   },
+   "tax": {
+    "fy": 0.621,
+    "ytd": 0.2352,
+    "ytd_prior": 0.3844
+   }
+  },
+  "balance": {
+   "current_assets": 2.9595,
+   "current_liabilities": 2.9638,
+   "total_assets": 22.0637,
+   "total_liabilities": 13.1843,
+   "retained_earnings": 14.4401,
+   "equity_total": 8.8794,
+   "cash": 0.0985
+  },
+  "debt_facts": {
+   "LongTermDebt": 10.1992,
+   "LongTermDebtNoncurrent": 9.0962,
+   "LongTermDebtCurrent": 1.103,
+   "ShortTermBorrowings": 0.1165
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 9.6929
+  },
+  "revenue": [
+   9.139,
+   10.2087,
+   9.9618,
+   9.4526,
+   8.8207
+  ],
+  "revenue_years": [
+   "2026-02-28",
+   "2025-02-28",
+   "2024-02-29",
+   "2023-02-28",
+   "2022-02-28"
+  ],
+  "net_income": [
+   1.6867,
+   -0.0814,
+   1.7274,
+   -0.071,
+   -0.0404
+  ],
+  "net_income_years": [
+   "2026-02-28",
+   "2025-02-28",
+   "2024-02-29",
+   "2023-02-28",
+   "2022-02-28"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "MRSH": {
+  "name": "Marsh\u00a0& McLennan Companies, Inc.",
+  "cik": "0000062709",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
+  "flows": {
+   "op_income": {
+    "fy": 6.223,
+    "ytd": 4.868,
+    "ytd_prior": 5.004
+   },
+   "interest_expense": {
+    "fy": 0.96,
+    "ytd": 0.738,
+    "ytd_prior": 0.725
+   },
+   "ocf": {
+    "fy": 5.292,
+    "ytd": 2.313,
+    "ytd_prior": 3.131
+   },
+   "capex": {
+    "fy": 0.291,
+    "ytd": 0.215,
+    "ytd_prior": 0.186
+   },
+   "pretax": {
+    "fy": 5.539,
+    "ytd": 4.316,
+    "ytd_prior": 4.483
+   },
+   "tax": {
+    "fy": 1.305,
+    "ytd": 1.027,
+    "ytd_prior": 1.083
+   }
+  },
+  "balance": {
+   "current_assets": 24.107,
+   "current_liabilities": 22.109,
+   "total_assets": 59.806,
+   "total_liabilities": null,
+   "retained_earnings": 29.162,
+   "equity_total": 14.91,
+   "cash": 1.842
+  },
+  "debt_facts": {
+   "LongTermDebt": 18.91,
+   "LongTermDebtNoncurrent": 18.889,
+   "LongTermDebtCurrent": 0.021,
+   "DebtCurrent": 1.644,
+   "ShortTermBorrowings": 1.623,
+   "CommercialPaper": 1.6
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 18.32
+  },
+  "revenue": [
+   26.981,
+   24.458,
+   22.736,
+   20.72,
+   19.82
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   4.16,
+   4.06,
+   3.756,
+   3.05,
+   3.143
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax + RevenueFromContractWithCustomerIncludingAssessedTax"
+  ]
+ },
+ "WTW": {
+  "name": "WILLIS TOWERS WATSON PLC",
+  "cik": "0001140536",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 2.234,
+    "ytd": 0.812,
+    "ytd_prior": 0.8
+   },
+   "interest_expense": {
+    "fy": 0.26,
+    "ytd": 0.155,
+    "ytd_prior": 0.129
+   },
+   "ocf": {
+    "fy": 1.775,
+    "ytd": 0.474,
+    "ytd_prior": 0.326
+   },
+   "capex": {
+    "fy": 0.229,
+    "ytd": 0.114,
+    "ytd_prior": 0.109
+   },
+   "pretax": {
+    "fy": 1.953,
+    "ytd": 0.668,
+    "ytd_prior": 0.616
+   },
+   "tax": {
+    "fy": 0.318,
+    "ytd": 0.127,
+    "ytd_prior": 0.044
+   }
+  },
+  "balance": {
+   "current_assets": 16.745,
+   "current_liabilities": 15.245,
+   "total_assets": 30.559,
+   "total_liabilities": 22.789,
+   "retained_earnings": -0.699,
+   "equity_total": 7.77,
+   "cash": 1.627
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 5.781,
+   "LongTermDebtCurrent": 0.749
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 5.756
+  },
+  "revenue": [
+   9.708,
+   9.93,
+   9.483,
+   8.866,
+   8.998
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   1.605,
+   -0.098,
+   1.055,
+   1.009,
+   4.222
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "capex = PaymentsToAcquireProductiveAssets"
+  ]
+ },
+ "CBOE": {
+  "name": "Cboe Global Markets, Inc.",
+  "cik": "0001374310",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.4671,
+    "ytd": 0.9816,
+    "ytd_prior": 0.693
+   },
+   "interest_expense": {
+    "fy": 0.0523,
+    "ytd": 0.0265,
+    "ytd_prior": 0.0257
+   },
+   "ocf": {
+    "fy": 1.7526,
+    "ytd": 1.4568,
+    "ytd_prior": 1.2466
+   },
+   "capex": {
+    "fy": 0.071,
+    "ytd": 0.0523,
+    "ytd_prior": 0.035
+   },
+   "pretax": {
+    "fy": 1.5666,
+    "ytd": 1.0102,
+    "ytd_prior": 0.6848
+   },
+   "tax": {
+    "fy": 0.4666,
+    "ytd": 0.2714,
+    "ytd_prior": 0.1991
+   }
+  },
+  "balance": {
+   "current_assets": 5.9268,
+   "current_liabilities": 3.7865,
+   "total_assets": 10.6093,
+   "total_liabilities": 4.9835,
+   "retained_earnings": 4.131,
+   "equity_total": 5.6258,
+   "cash": 2.2762
+  },
+  "debt_facts": {
+   "LongTermDebt": 1.4438,
+   "LongTermDebtNoncurrent": 0.7942,
+   "LongTermDebtCurrent": 0.6496
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 1.4429
+  },
+  "revenue": [
+   4.7142,
+   4.0945,
+   3.7735,
+   3.9585,
+   3.4948
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   1.1,
+   0.7649,
+   0.7614,
+   0.235,
+   0.529
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "capex = PaymentsToAcquirePropertyPlantAndEquipment / PaymentsToAcquireProductiveAssets",
+   "revenue = RevenueFromContractWithCustomerIncludingAssessedTax",
+   "net_income = NetIncomeLoss + ProfitLoss",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "PYPL": {
+  "name": "PayPal Holdings, Inc.",
+  "cik": "0001633917",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-03-31",
+  "ytd_label": "YTD to 2026-03-31",
+  "flows": {
+   "op_income": {
+    "fy": 6.065,
+    "ytd": 1.488,
+    "ytd_prior": 1.53
+   },
+   "interest_expense": {
+    "fy": 0.441,
+    "ytd": 0.111,
+    "ytd_prior": 0.103
+   },
+   "ocf": {
+    "fy": 6.416,
+    "ytd": 1.134,
+    "ytd_prior": 1.16
+   },
+   "capex": {
+    "fy": 0.852,
+    "ytd": 0.231,
+    "ytd_prior": 0.196
+   },
+   "pretax": {
+    "fy": 6.292,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "tax": {
+    "fy": 1.059,
+    "ytd": 0.28,
+    "ytd_prior": 0.316
+   }
+  },
+  "balance": {
+   "current_assets": 59.995,
+   "current_liabilities": 47.637,
+   "total_assets": 80.546,
+   "total_liabilities": 60.522,
+   "retained_earnings": 33.453,
+   "equity_total": 20.024,
+   "cash": 6.977
+  },
+  "debt_facts": {
+   "LongTermDebt": 10.876,
+   "LongTermDebtNoncurrent": 9.409
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 9.987
+  },
+  "revenue": [
+   33.172,
+   31.797,
+   29.771,
+   27.518,
+   25.371
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   5.233,
+   4.147,
+   4.246,
+   2.419,
+   4.169
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "pretax = _PretaxDomesticPlusForeign",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "MLI": {
+  "name": "MUELLER INDUSTRIES INC",
+  "cik": "0000089439",
+  "edgar_k_end": "2025-12-27",
+  "edgar_q_end": "2026-06-27",
+  "ytd_label": "YTD to 2026-06-27",
+  "flows": {
+   "op_income": {
+    "fy": 0.958542,
+    "ytd": 0.622202,
+    "ytd_prior": 0.51043
+   },
+   "interest_expense": {
+    "fy": 0.000108,
+    "ytd": 0.000134,
+    "ytd_prior": 4.2e-05
+   },
+   "ocf": {
+    "fy": 0.755444,
+    "ytd": 0.292001,
+    "ytd_prior": 0.304161
+   },
+   "capex": {
+    "fy": 0.068805,
+    "ytd": 0.038796,
+    "ytd_prior": 0.030691
+   },
+   "pretax": {
+    "fy": 1.012362,
+    "ytd": 0.647065,
+    "ytd_prior": 0.535663
+   },
+   "tax": {
+    "fy": 0.247351,
+    "ytd": 0.162424,
+    "ytd_prior": 0.130332
+   }
+  },
+  "balance": {
+   "current_assets": 2.845271,
+   "current_liabilities": 0.595824,
+   "total_assets": 4.257268,
+   "total_liabilities": 0.683252,
+   "retained_earnings": 4.172858,
+   "equity_total": 3.574016,
+   "cash": 1.388748
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 0.005243
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 0.0
+  },
+  "revenue": [
+   4.178547,
+   3.768766,
+   3.420345,
+   3.982455,
+   3.769345
+  ],
+  "revenue_years": [
+   "2025-12-27",
+   "2024-12-28",
+   "2023-12-30",
+   "2022-12-31",
+   "2021-12-25"
+  ],
+  "net_income": [
+   0.765191,
+   0.604879,
+   0.602897,
+   0.658316,
+   0.46852
+  ],
+  "net_income_years": [
+   "2025-12-27",
+   "2024-12-28",
+   "2023-12-30",
+   "2022-12-31",
+   "2021-12-25"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "capex = PaymentsToAcquireProductiveAssets",
+   "pretax = IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest / IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "MU": {
+  "name": "Micron Technology, Inc.",
+  "cik": "0000723125",
+  "edgar_k_end": "2026-09-03",
+  "edgar_q_end": "2026-05-28",
+  "ytd_label": "FY to 2026-09-03",
+  "flows": {
+   "op_income": {
+    "fy": 99.34,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 0.106,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 89.675,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "capex": {
+    "fy": 30.712,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "pretax": {
+    "fy": 99.671,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "tax": {
+    "fy": 14.761,
+    "ytd": null,
+    "ytd_prior": null
+   }
+  },
+  "balance": {
+   "current_assets": 91.07,
+   "current_liabilities": 27.482,
+   "total_assets": 195.888,
+   "total_liabilities": 57.51,
+   "retained_earnings": 131.851,
+   "equity_total": 138.378,
+   "cash": 38.364
+  },
+  "debt_facts": {
+   "DebtAndCapitalLeaseObligations": 5.179,
+   "LongTermDebt": 2.792,
+   "DebtCurrent": 0.491,
+   "LongTermDebtAndCapitalLeaseObligations": 4.688
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   133.188,
+   37.378,
+   25.111,
+   15.54,
+   30.758
+  ],
+  "revenue_years": [
+   "2026-09-03",
+   "2025-08-28",
+   "2024-08-29",
+   "2023-08-31",
+   "2022-09-01"
+  ],
+  "net_income": [
+   84.969,
+   8.539,
+   0.778,
+   -5.833,
+   8.687
+  ],
+  "net_income_years": [
+   "2026-09-03",
+   "2025-08-28",
+   "2024-08-29",
+   "2023-08-31",
+   "2022-09-01"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "pretax = IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "WDC": {
+  "name": "Western Digital Corporation",
+  "cik": "0000106040",
+  "edgar_k_end": "2026-07-03",
+  "edgar_q_end": "2026-04-03",
+  "ytd_label": "FY to 2026-07-03",
+  "flows": {
+   "op_income": {
+    "fy": 4.453,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 0.165,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 3.929,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "capex": {
+    "fy": 0.418,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "pretax": {
+    "fy": 9.905,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "tax": {
+    "fy": 0.481,
+    "ytd": null,
+    "ytd_prior": null
+   }
+  },
+  "balance": {
+   "current_assets": 5.634,
+   "current_liabilities": 4.24,
+   "total_assets": 13.861,
+   "total_liabilities": 4.997,
+   "retained_earnings": 9.998,
+   "equity_total": 8.864,
+   "cash": 1.579
+  },
+  "debt_facts": {
+   "LongTermDebt": 1.052,
+   "LongTermDebtNoncurrent": 0.0,
+   "LongTermDebtCurrent": 1.052
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 0.0
+  },
+  "revenue": [
+   12.919,
+   9.52,
+   6.317,
+   6.255,
+   18.793
+  ],
+  "revenue_years": [
+   "2026-07-03",
+   "2025-06-27",
+   "2024-06-28",
+   "2023-06-30",
+   "2022-07-01"
+  ],
+  "net_income": [
+   9.424,
+   1.889,
+   -0.798,
+   -1.684,
+   1.546
+  ],
+  "net_income_years": [
+   "2026-07-03",
+   "2025-06-27",
+   "2024-06-28",
+   "2023-06-30",
+   "2022-07-01"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "NXPI": {
+  "name": "NXP Semiconductors N.V.",
+  "cik": "0001413447",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-03-29",
+  "ytd_label": "YTD to 2026-03-29",
+  "flows": {
+   "op_income": {
+    "fy": 3.047,
+    "ytd": 1.505,
+    "ytd_prior": 0.723
+   },
+   "interest_expense": {
+    "fy": 0.466,
+    "ytd": 0.114,
+    "ytd_prior": 0.106
+   },
+   "ocf": {
+    "fy": 2.82,
+    "ytd": 0.793,
+    "ytd_prior": 0.565
+   },
+   "capex": {
+    "fy": 0.397,
+    "ytd": 0.079,
+    "ytd_prior": 0.139
+   },
+   "pretax": {
+    "fy": 2.663,
+    "ytd": 1.409,
+    "ytd_prior": 0.631
+   },
+   "tax": {
+    "fy": 0.525,
+    "ytd": 0.272,
+    "ytd_prior": 0.13
+   }
+  },
+  "balance": {
+   "current_assets": 8.152,
+   "current_liabilities": 3.638,
+   "total_assets": 27.113,
+   "total_liabilities": 15.839,
+   "retained_earnings": -0.496,
+   "equity_total": 11.274,
+   "cash": 3.708
+  },
+  "debt_facts": {
+   "DebtAndCapitalLeaseObligations": 11.724,
+   "DebtCurrent": 0.75,
+   "CommercialPaper": 2.0,
+   "LongTermDebtAndCapitalLeaseObligations": 10.974
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 10.972
+  },
+  "revenue": [
+   12.269,
+   12.614,
+   13.276,
+   13.205,
+   11.063
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   2.021,
+   2.51,
+   2.797,
+   2.787,
+   1.871
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "pretax = IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "NEM": {
+  "name": "NEWMONT CORPORATION",
+  "cik": "0001164727",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": null,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "interest_expense": {
+    "fy": 0.233,
+    "ytd": null,
+    "ytd_prior": null
+   },
+   "ocf": {
+    "fy": 10.334,
+    "ytd": 6.709,
+    "ytd_prior": 4.415
+   },
+   "capex": {
+    "fy": 3.035,
+    "ytd": 1.36,
+    "ytd_prior": 1.5
+   },
+   "pretax": {
+    "fy": 11.342,
+    "ytd": 7.582,
+    "ytd_prior": 5.589
+   },
+   "tax": {
+    "fy": 4.596,
+    "ytd": 2.356,
+    "ytd_prior": 1.739
+   }
+  },
+  "balance": {
+   "current_assets": 13.306,
+   "current_liabilities": 5.226,
+   "total_assets": 57.641,
+   "total_liabilities": 22.227,
+   "retained_earnings": 5.716,
+   "equity_total": 35.414,
+   "cash": 9.009
+  },
+  "debt_facts": {
+   "LongTermDebt": 5.083,
+   "LongTermDebtNoncurrent": 5.083
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 5.115
+  },
+  "revenue": [
+   22.669,
+   18.682,
+   11.812,
+   11.915,
+   12.222
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   7.085,
+   3.348,
+   -2.494,
+   -0.429,
+   1.166
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "op_income: none of the mapped concepts tagged",
+   "interest_expense = InterestPaidNet",
+   "capex = PaymentsToAcquireProductiveAssets",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax"
+  ]
+ },
+ "EOG": {
+  "name": "EOG RESOURCES, INC.",
+  "cik": "0000821189",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 6.385,
+    "ytd": 6.126,
+    "ytd_prior": 3.606
+   },
+   "interest_expense": {
+    "fy": 0.235,
+    "ytd": 0.133,
+    "ytd_prior": 0.098
+   },
+   "ocf": {
+    "fy": 10.044,
+    "ytd": 7.635,
+    "ytd_prior": 4.321
+   },
+   "capex": {
+    "fy": 6.594,
+    "ytd": 3.426,
+    "ytd_prior": 3.276
+   },
+   "pretax": {
+    "fy": 6.362,
+    "ytd": 6.054,
+    "ytd_prior": 3.628
+   },
+   "tax": {
+    "fy": 1.382,
+    "ytd": 1.35,
+    "ytd_prior": 0.82
+   }
+  },
+  "balance": {
+   "current_assets": 9.877,
+   "current_liabilities": 5.335,
+   "total_assets": 54.783,
+   "total_liabilities": null,
+   "retained_earnings": 33.39,
+   "equity_total": 31.864,
+   "cash": 4.907
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 7.899,
+   "LongTermDebtCurrent": 0.027
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 7.909
+  },
+  "revenue": [
+   22.632,
+   23.698,
+   24.186,
+   25.702,
+   18.642
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   4.98,
+   6.403,
+   7.594,
+   7.759,
+   4.664
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "capex = _OilGasPlusOtherPPE",
+   "equity_total = StockholdersEquity"
+  ]
+ },
+ "LNG": {
+  "name": "Cheniere Energy, Inc.",
+  "cik": "0000003570",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 9.112,
+    "ytd": 0.802,
+    "ytd_prior": 3.491
+   },
+   "interest_expense": {
+    "fy": 0.948,
+    "ytd": 0.542,
+    "ytd_prior": 0.466
+   },
+   "ocf": {
+    "fy": 5.539,
+    "ytd": 2.658,
+    "ytd_prior": 2.059
+   },
+   "capex": {
+    "fy": 3.078,
+    "ytd": 1.916,
+    "ytd_prior": 1.647
+   },
+   "pretax": {
+    "fy": 8.282,
+    "ytd": 0.255,
+    "ytd_prior": 3.112
+   },
+   "tax": {
+    "fy": 1.488,
+    "ytd": 0.025,
+    "ytd_prior": 0.547
+   }
+  },
+  "balance": {
+   "current_assets": 4.112,
+   "current_liabilities": 4.723,
+   "total_assets": 47.972,
+   "total_liabilities": 36.482,
+   "retained_earnings": 11.573,
+   "equity_total": 11.49,
+   "cash": 1.099
+  },
+  "debt_facts": {
+   "LongTermDebt": 22.632,
+   "LongTermDebtNoncurrent": 22.632,
+   "LongTermDebtCurrent": 1.411,
+   "DebtCurrent": 1.411
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 22.507
+  },
+  "revenue": [
+   19.976,
+   15.703,
+   20.394,
+   33.428,
+   15.864
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   5.33,
+   3.252,
+   9.881,
+   1.428,
+   -2.343
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating"
+  ]
+ },
+ "OKE": {
+  "name": "ONEOK INC /NEW/",
+  "cik": "0001039684",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 5.741,
+    "ytd": 3.021,
+    "ytd_prior": 2.651
+   },
+   "interest_expense": {
+    "fy": 1.783,
+    "ytd": 0.873,
+    "ytd_prior": 0.88
+   },
+   "ocf": {
+    "fy": 5.599,
+    "ytd": 2.987,
+    "ytd_prior": 2.429
+   },
+   "capex": {
+    "fy": 3.152,
+    "ytd": 1.477,
+    "ytd_prior": 1.378
+   },
+   "pretax": {
+    "fy": 4.49,
+    "ytd": 2.287,
+    "ytd_prior": 2.001
+   },
+   "tax": {
+    "fy": 1.028,
+    "ytd": 0.544,
+    "ytd_prior": 0.457
+   }
+  },
+  "balance": {
+   "current_assets": 5.31,
+   "current_liabilities": 7.204,
+   "total_assets": 68.549,
+   "total_liabilities": null,
+   "retained_earnings": 2.759,
+   "equity_total": 23.037,
+   "cash": 0.161
+  },
+  "debt_facts": {
+   "LongTermDebt": 31.5,
+   "LongTermDebtNoncurrent": 30.773,
+   "LongTermDebtCurrent": 0.75,
+   "ShortTermBorrowings": 1.499
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 30.755
+  },
+  "revenue": [
+   33.629,
+   21.698,
+   17.677,
+   22.386892,
+   16.540309
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   3.393,
+   3.035,
+   2.659,
+   1.722,
+   1.5
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax + Revenues",
+   "net_income = NetIncomeLoss + ProfitLoss"
+  ]
+ },
+ "MPLX": {
+  "name": "MPLX LP",
+  "cik": "0001552000",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 5.943,
+    "ytd": 2.592,
+    "ytd_prior": 2.659
+   },
+   "interest_expense": {
+    "fy": 1.072,
+    "ytd": 0.636,
+    "ytd_prior": 0.488
+   },
+   "ocf": {
+    "fy": 5.909,
+    "ytd": 3.049,
+    "ytd_prior": 2.982
+   },
+   "capex": {
+    "fy": 1.808,
+    "ytd": 1.4,
+    "ytd_prior": 0.568
+   },
+   "pretax": {
+    "fy": 4.96,
+    "ytd": 2.012,
+    "ytd_prior": 2.196
+   },
+   "tax": {
+    "fy": null,
+    "ytd": 0.003,
+    "ytd_prior": 0.002
+   }
+  },
+  "balance": {
+   "current_assets": 2.876,
+   "current_liabilities": 3.224,
+   "total_assets": 42.969,
+   "total_liabilities": 28.717,
+   "retained_earnings": null,
+   "equity_total": 14.252,
+   "cash": 1.031
+  },
+  "debt_facts": {
+   "DebtAndCapitalLeaseObligations": 26.005,
+   "LongTermDebtAndCapitalLeaseObligations": 24.389
+  },
+  "debt_facts_annual": {},
+  "revenue": [
+   12.998,
+   11.933,
+   11.281,
+   11.613,
+   10.027
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   4.952,
+   4.357,
+   3.928,
+   3.944,
+   3.077
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseDebt",
+   "net_income = NetIncomeLoss + ProfitLoss",
+   "equity_total = PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest"
+  ]
+ },
+ "VG": {
+  "name": "VENTURE GLOBAL, INC.",
+  "cik": "0002007855",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 5.156,
+    "ytd": 3.339,
+    "ytd_prior": 2.118
+   },
+   "interest_expense": {
+    "fy": 1.454,
+    "ytd": 0.933,
+    "ytd_prior": 0.586
+   },
+   "ocf": {
+    "fy": 6.566,
+    "ytd": 2.835,
+    "ytd_prior": 2.572
+   },
+   "capex": {
+    "fy": 13.365,
+    "ytd": 6.9,
+    "ytd_prior": 6.446
+   },
+   "pretax": {
+    "fy": 3.363,
+    "ytd": 2.489,
+    "ytd_prior": 1.259
+   },
+   "tax": {
+    "fy": 0.63,
+    "ytd": 0.447,
+    "ytd_prior": 0.267
+   }
+  },
+  "balance": {
+   "current_assets": 4.529,
+   "current_liabilities": 3.821,
+   "total_assets": 61.515,
+   "total_liabilities": 49.436,
+   "retained_earnings": 6.466,
+   "equity_total": 12.079,
+   "cash": 3.12
+  },
+  "debt_facts": {
+   "LongTermDebt": 41.814,
+   "LongTermDebtNoncurrent": 41.527,
+   "LongTermDebtCurrent": 0.287
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 33.393
+  },
+  "revenue": [
+   13.769,
+   4.972,
+   7.897
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31"
+  ],
+  "net_income": [
+   2.733,
+   1.746,
+   3.616
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
+   "net_income = ProfitLoss"
+  ]
+ },
+ "CF": {
+  "name": "CF INDUSTRIES HOLDINGS,\u00a0INC.",
+  "cik": "0001324404",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 2.3,
+    "ytd": 1.984,
+    "ytd_prior": 1.103
+   },
+   "interest_expense": {
+    "fy": 0.155,
+    "ytd": 0.089,
+    "ytd_prior": 0.073
+   },
+   "ocf": {
+    "fy": 2.752,
+    "ytd": 1.374,
+    "ytd_prior": 1.149
+   },
+   "capex": {
+    "fy": 0.95,
+    "ytd": 0.494,
+    "ytd_prior": 0.377
+   },
+   "pretax": {
+    "fy": 2.239,
+    "ytd": 1.937,
+    "ytd_prior": 1.072
+   },
+   "tax": {
+    "fy": 0.441,
+    "ytd": 0.392,
+    "ytd_prior": 0.229
+   }
+  },
+  "balance": {
+   "current_assets": 3.752,
+   "current_liabilities": 0.772,
+   "total_assets": 15.099,
+   "total_liabilities": null,
+   "retained_earnings": 4.829,
+   "equity_total": 8.92,
+   "cash": 2.48
+  },
+  "debt_facts": {
+   "LongTermDebt": 3.216,
+   "LongTermDebtNoncurrent": 3.216
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 3.215
+  },
+  "revenue": [
+   7.084,
+   5.936,
+   6.631,
+   11.186,
+   6.538
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   1.798,
+   1.477,
+   1.838,
+   3.937,
+   1.26
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "net_income = ProfitLoss",
+   "cash = CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents"
+  ]
+ },
+ "FSLR": {
+  "name": "First Solar, Inc.",
+  "cik": "0001274494",
+  "edgar_k_end": "2025-12-31",
+  "edgar_q_end": "2026-06-30",
+  "ytd_label": "YTD to 2026-06-30",
+  "flows": {
+   "op_income": {
+    "fy": 1.596864,
+    "ytd": 0.795689,
+    "ytd_prior": 0.582851
+   },
+   "interest_expense": {
+    "fy": 0.044131,
+    "ytd": 0.013178,
+    "ytd_prior": 0.018709
+   },
+   "ocf": {
+    "fy": 2.057105,
+    "ytd": -0.359767,
+    "ytd_prior": -0.458405
+   },
+   "capex": {
+    "fy": 0.869875,
+    "ytd": 0.279849,
+    "ytd_prior": 0.4941
+   },
+   "pretax": {
+    "fy": 1.580913,
+    "ytd": 0.813711,
+    "ytd_prior": 0.569226
+   },
+   "tax": {
+    "fy": 0.052684,
+    "ytd": 0.044523,
+    "ytd_prior": 0.017823
+   }
+  },
+  "balance": {
+   "current_assets": 5.317215,
+   "current_liabilities": 2.111816,
+   "total_assets": 13.388598,
+   "total_liabilities": 3.06826,
+   "retained_earnings": 7.560527,
+   "equity_total": 10.320338,
+   "cash": 1.688279
+  },
+  "debt_facts": {
+   "LongTermDebtNoncurrent": 0.0,
+   "DebtCurrent": 0.037635
+  },
+  "debt_facts_annual": {
+   "LongTermDebtNoncurrent": 0.282593
+  },
+  "revenue": [
+   5.219376,
+   4.206289,
+   3.318602,
+   2.619319,
+   2.923377
+  ],
+  "revenue_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "net_income": [
+   1.528229,
+   1.292044,
+   0.830777,
+   -0.044166,
+   0.468693
+  ],
+  "net_income_years": [
+   "2025-12-31",
+   "2024-12-31",
+   "2023-12-31",
+   "2022-12-31",
+   "2021-12-31"
+  ],
+  "notes": [
+   "source: SEC EDGAR companyfacts",
+   "interest_expense = InterestExpenseNonoperating",
+   "equity_total = StockholdersEquity"
+  ]
+ }
+}

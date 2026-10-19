@@ -1,0 +1,39 @@
+name: EDGAR weekly fetch
+
+# Sundays 22:00 UTC (3 PM PDT / 2 PM PST), ahead of the 4:27 PM Pacific screen.
+# Also runnable by hand from the Actions tab ("Run workflow").
+on:
+  schedule:
+    - cron: "0 22 * * 0"
+  workflow_dispatch:
+  # Re-fetch whenever the fetch code or the ticker list changes. (The bot's own data
+  # commits don't trigger this: pushes made with GITHUB_TOKEN never start workflows.)
+  push:
+    branches: [main]
+    paths: ["edgar_fetch.py", "universe.txt", ".github/workflows/edgar-weekly.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch SEC EDGAR financials for universe.txt
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python3 edgar_fetch.py
+      - name: Commit data
+        run: |
+          git config user.name "edgar-bot"
+          git config user.email "edgar-bot@users.noreply.github.com"
+          git add edgar_data/
+          git diff --cached --quiet || git commit -m "EDGAR data $(date -u +%F)"
+          # main may have moved while the job ran (or this is a re-run of an older commit)
+          git pull --rebase origin main
+          git push
