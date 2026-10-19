@@ -10,3 +10,6 @@ Public, data-only half of a personal stock screener.
 
 The SEC requires a contact in the User-Agent; it is read from the `SEC_USER_AGENT` repository
 secret and is never committed.
+
+`code/screener-code.tar.enc` is an AES-256 encrypted bundle of the private screening code, so a
+scheduled run can load it byte-for-byte without access to the private repo. The key is not here.
