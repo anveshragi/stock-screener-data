@@ -1,5 +1,5 @@
 {
- "_about": "SEC EDGAR companyfacts pulled 2026-10-25. USD billions. Financial-statement fields only; market fields merged later from Robinhood.",
+ "_about": "SEC EDGAR companyfacts pulled 2026-11-02. USD billions. Financial-statement fields only; market fields merged later from Robinhood.",
  "SPG": {
   "name": "SIMON PROPERTY GROUP, INC.",
   "cik": "0001063761",
@@ -179,52 +179,52 @@
   "name": "Gaming and Leisure Properties,\u00a0Inc.",
   "cik": "0001575965",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 1.201453,
-    "ytd": 0.665741,
-    "ytd_prior": 0.500898
+    "ytd": 0.975684,
+    "ytd_prior": 0.838061
    },
    "interest_expense": {
     "fy": 0.373881,
-    "ytd": 0.196561,
-    "ytd_prior": 0.187206
+    "ytd": 0.295445,
+    "ytd_prior": 0.281265
    },
    "ocf": {
     "fy": 1.129417,
-    "ytd": 0.619831,
-    "ytd_prior": 0.545867
+    "ytd": 0.899526,
+    "ytd_prior": 0.786173
    },
    "capex": {
     "fy": null,
-    "ytd": 0.29623,
-    "ytd_prior": 0.034098
+    "ytd": 0.472552,
+    "ytd_prior": 0.057451
    },
    "pretax": {
     "fy": 0.852585,
-    "ytd": 0.475507,
-    "ytd_prior": 0.327628
+    "ytd": 0.68987,
+    "ytd_prior": 0.576669
    },
    "tax": {
     "fy": 0.002229,
-    "ytd": 0.001161,
-    "ytd_prior": 0.001109
+    "ytd": 0.001695,
+    "ytd_prior": 0.001669
    }
   },
   "balance": {
    "current_assets": null,
    "current_liabilities": null,
-   "total_assets": 14.155215,
-   "total_liabilities": 8.773788,
-   "retained_earnings": -1.990222,
-   "equity_total": 5.381427,
-   "cash": 0.319004
+   "total_assets": 14.096196,
+   "total_liabilities": 8.742261,
+   "retained_earnings": -2.021301,
+   "equity_total": 5.353935,
+   "cash": 0.165752
   },
   "debt_facts": {
-   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 8.077741,
-   "LongTermDebt": 8.077741
+   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 8.080546,
+   "LongTermDebt": 8.080546
   },
   "debt_facts_annual": {},
   "revenue": [
@@ -789,52 +789,52 @@
   "name": "GoDaddy Inc.",
   "cik": "0001609711",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 1.1273,
-    "ytd": 0.653,
-    "ytd_prior": 0.5136
+    "ytd": 1.0155,
+    "ytd_prior": 0.8103
    },
    "interest_expense": {
     "fy": 0.151,
-    "ytd": 0.0752,
-    "ytd_prior": 0.0755
+    "ytd": 0.1129,
+    "ytd_prior": 0.1138
    },
    "ocf": {
     "fy": 1.5994,
-    "ytd": 0.914,
-    "ytd_prior": 0.7846
+    "ytd": 1.4017,
+    "ytd_prior": 1.2288
    },
    "capex": {
     "fy": 0.0239,
-    "ytd": 0.0097,
-    "ytd_prior": 0.0077
+    "ytd": 0.0216,
+    "ytd_prior": 0.017
    },
    "pretax": {
     "fy": 1.02,
-    "ytd": 0.5989,
-    "ytd_prior": 0.4591
+    "ytd": 0.9315,
+    "ytd_prior": 0.7261
    },
    "tax": {
     "fy": 0.145,
-    "ytd": 0.1442,
-    "ytd_prior": 0.0397
+    "ytd": 0.215,
+    "ytd_prior": 0.0962
    }
   },
   "balance": {
-   "current_assets": 1.9728,
-   "current_liabilities": 3.1209,
-   "total_assets": 7.9966,
+   "current_assets": 1.931,
+   "current_liabilities": 3.1631,
+   "total_assets": 7.9071,
    "total_liabilities": null,
-   "retained_earnings": -3.175,
-   "equity_total": 0.0067,
-   "cash": 1.1555
+   "retained_earnings": -3.3949,
+   "equity_total": -0.1388,
+   "cash": 1.1198
   },
   "debt_facts": {
-   "LongTermDebtNoncurrent": 3.7594,
-   "LongTermDebtCurrent": 0.015
+   "LongTermDebtNoncurrent": 3.7564,
+   "LongTermDebtCurrent": 0.0149
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 3.7652
@@ -1153,13 +1153,13 @@
   "name": "LOGITECH INTERNATIONAL S.A.",
   "cik": "0001032975",
   "edgar_k_end": "2026-03-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 0.775194,
-    "ytd": 0.258551,
-    "ytd_prior": 0.162094
+    "ytd": 0.459107,
+    "ytd_prior": 0.353385
    },
    "interest_expense": {
     "fy": null,
@@ -1168,33 +1168,33 @@
    },
    "ocf": {
     "fy": 1.037207,
-    "ytd": 0.166708,
-    "ytd_prior": 0.125045
+    "ytd": 0.330269,
+    "ytd_prior": 0.353882
    },
    "capex": {
     "fy": 0.061562,
-    "ytd": 0.016798,
-    "ytd_prior": 0.016276
+    "ytd": 0.031514,
+    "ytd_prior": 0.032833
    },
    "pretax": {
     "fy": 0.826519,
-    "ytd": 0.27558,
-    "ytd_prior": 0.174485
+    "ytd": 0.494076,
+    "ytd_prior": 0.37754
    },
    "tax": {
     "fy": 0.115332,
-    "ytd": 0.039883,
-    "ytd_prior": 0.02847
+    "ytd": 0.078344,
+    "ytd_prior": 0.060855
    }
   },
   "balance": {
-   "current_assets": 3.121243,
-   "current_liabilities": 1.350464,
-   "total_assets": 4.034065,
-   "total_liabilities": 1.68232,
-   "retained_earnings": 3.596323,
-   "equity_total": 2.351745,
-   "cash": 1.749679
+   "current_assets": 2.985955,
+   "current_liabilities": 1.40312,
+   "total_assets": 3.919881,
+   "total_liabilities": 1.756632,
+   "retained_earnings": 3.536801,
+   "equity_total": 2.163249,
+   "cash": 1.507647
   },
   "debt_facts": {},
   "debt_facts_annual": {},
@@ -1325,53 +1325,53 @@
   "name": "CARLISLE COMPANIES INCORPORATED",
   "cik": "0000790051",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 1.0025,
-    "ytd": 0.5328,
-    "ytd_prior": 0.5186
+    "ytd": 0.826,
+    "ytd_prior": 0.8125
    },
    "interest_expense": {
     "fy": 0.0785,
-    "ytd": 0.0557,
-    "ytd_prior": 0.0295
+    "ytd": 0.0834,
+    "ytd_prior": 0.0508
    },
    "ocf": {
     "fy": 1.1018,
-    "ytd": 0.1971,
-    "ytd_prior": 0.2889
+    "ytd": 0.5112,
+    "ytd_prior": 0.7158
    },
    "capex": {
     "fy": 0.1312,
-    "ytd": 0.07,
-    "ytd_prior": 0.0578
+    "ytd": 0.1068,
+    "ytd_prior": 0.0913
    },
    "pretax": {
     "fy": 0.9488,
-    "ytd": 0.4969,
-    "ytd_prior": 0.4986
+    "ytd": 0.7668,
+    "ytd_prior": 0.7764
    },
    "tax": {
     "fy": 0.2063,
-    "ytd": 0.1115,
-    "ytd_prior": 0.103
+    "ytd": 0.174,
+    "ytd_prior": 0.1673
    }
   },
   "balance": {
-   "current_assets": 2.2971,
-   "current_liabilities": 0.8834,
-   "total_assets": 6.2347,
+   "current_assets": 2.104,
+   "current_liabilities": 0.875,
+   "total_assets": 6.0298,
    "total_liabilities": null,
-   "retained_earnings": 7.6253,
-   "equity_total": 1.6172,
-   "cash": 0.6653
+   "retained_earnings": 7.7839,
+   "equity_total": 1.4383,
+   "cash": 0.5467
   },
   "debt_facts": {
-   "LongTermDebt": 2.8899,
-   "LongTermDebtNoncurrent": 2.8849,
-   "LongTermDebtCurrent": 0.005
+   "LongTermDebt": 2.8927,
+   "LongTermDebtNoncurrent": 2.8874,
+   "LongTermDebtCurrent": 0.0053
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 2.8816
@@ -1415,8 +1415,8 @@
   "name": "BRISTOL-MYERS SQUIBB COMPANY",
   "cik": "0000014272",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": null,
@@ -1425,45 +1425,45 @@
    },
    "interest_expense": {
     "fy": 1.891,
-    "ytd": 0.818,
-    "ytd_prior": 0.979
+    "ytd": 1.22,
+    "ytd_prior": 1.459
    },
    "ocf": {
     "fy": 14.156,
-    "ytd": 4.497,
-    "ytd_prior": 5.871
+    "ytd": 8.678,
+    "ytd_prior": 12.182
    },
    "capex": {
     "fy": 1.311,
-    "ytd": 0.652,
-    "ytd_prior": 0.621
+    "ytd": 0.996,
+    "ytd_prior": 0.941
    },
    "pretax": {
     "fy": 9.328,
-    "ytd": 7.326,
-    "ytd_prior": 4.744
+    "ytd": 9.862,
+    "ytd_prior": 7.858
    },
    "tax": {
     "fy": 2.272,
-    "ytd": 1.331,
-    "ytd_prior": 0.969
+    "ytd": 1.705,
+    "ytd_prior": 1.888
    }
   },
   "balance": {
-   "current_assets": 28.579,
-   "current_liabilities": 18.659,
-   "total_assets": 87.634,
-   "total_liabilities": 65.315,
-   "retained_earnings": 20.316,
-   "equity_total": 22.319,
-   "cash": 8.722
+   "current_assets": 29.767,
+   "current_liabilities": 18.753,
+   "total_assets": 88.772,
+   "total_liabilities": 65.368,
+   "retained_earnings": 21.19,
+   "equity_total": 23.404,
+   "cash": 9.574
   },
   "debt_facts": {
-   "LongTermDebt": 42.861,
-   "LongTermDebtNoncurrent": 42.093,
+   "LongTermDebt": 42.617,
+   "LongTermDebtNoncurrent": 41.849,
    "LongTermDebtCurrent": 0.768,
-   "DebtCurrent": 1.027,
-   "ShortTermBorrowings": 1.027
+   "DebtCurrent": 1.028,
+   "ShortTermBorrowings": 1.028
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 42.85
@@ -1679,52 +1679,52 @@
   "name": "ResMed Inc.",
   "cik": "0000943819",
   "edgar_k_end": "2026-06-30",
-  "edgar_q_end": "2026-03-31",
-  "ytd_label": "FY to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 1.886715,
-    "ytd": null,
-    "ytd_prior": null
+    "ytd": 0.452984,
+    "ytd_prior": 0.446537
    },
    "interest_expense": {
     "fy": 0.027057,
-    "ytd": null,
-    "ytd_prior": null
+    "ytd": 0.004814,
+    "ytd_prior": 0.007121
    },
    "ocf": {
     "fy": 1.805829,
-    "ytd": null,
-    "ytd_prior": null
+    "ytd": 0.422422,
+    "ytd_prior": 0.457321
    },
    "capex": {
     "fy": 0.156285,
-    "ytd": null,
-    "ytd_prior": null
+    "ytd": 0.04874,
+    "ytd_prior": 0.042965
    },
    "pretax": {
     "fy": 1.919416,
-    "ytd": null,
-    "ytd_prior": null
+    "ytd": 0.539155,
+    "ytd_prior": 0.446793
    },
    "tax": {
     "fy": 0.396123,
-    "ytd": null,
-    "ytd_prior": null
+    "ytd": 0.120742,
+    "ytd_prior": 0.098257
    }
   },
   "balance": {
-   "current_assets": 4.324739,
-   "current_liabilities": 1.39511,
-   "total_assets": 8.96595,
-   "total_liabilities": 2.380557,
-   "retained_earnings": 7.255121,
-   "equity_total": 6.585393,
-   "cash": 1.469234
+   "current_assets": 3.508921,
+   "current_liabilities": 1.32422,
+   "total_assets": 8.211811,
+   "total_liabilities": 2.264121,
+   "retained_earnings": 7.57858,
+   "equity_total": 5.94769,
+   "cash": 1.010742
   },
   "debt_facts": {
-   "LongTermDebt": 0.399415,
-   "ShortTermBorrowings": 0.25995
+   "LongTermDebt": 0.249629,
+   "ShortTermBorrowings": 0.159975
   },
   "debt_facts_annual": {},
   "revenue": [
@@ -1757,7 +1757,7 @@
   ],
   "notes": [
    "source: SEC EDGAR companyfacts",
-   "interest_expense = InterestPaidNet",
+   "interest_expense = InterestExpenseNonoperating / InterestPaidNet",
    "revenue = RevenueFromContractWithCustomerExcludingAssessedTax",
    "equity_total = StockholdersEquity"
   ]
@@ -1850,48 +1850,48 @@
   "name": "INCYTE CORPORATION",
   "cik": "0000879169",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-03-31",
-  "ytd_label": "YTD to 2026-03-31",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 1.514859,
-    "ytd": 0.301117,
-    "ytd_prior": 0.205168
+    "ytd": 0.290654,
+    "ytd_prior": 1.179
    },
    "interest_expense": {
     "fy": 0.002428,
-    "ytd": 0.000569,
-    "ytd_prior": 0.00066
+    "ytd": 0.001756,
+    "ytd_prior": 0.001846
    },
    "ocf": {
     "fy": 1.413498,
-    "ytd": 0.369351,
-    "ytd_prior": 0.266067
+    "ytd": 0.201691,
+    "ytd_prior": 0.870197
    },
    "capex": {
     "fy": 0.058867,
-    "ytd": 0.0102,
-    "ytd_prior": 0.003169
+    "ytd": 0.038244,
+    "ytd_prior": 0.03699
    },
    "pretax": {
     "fy": 1.664451,
-    "ytd": 0.3436,
-    "ytd_prior": 0.23419
+    "ytd": 0.406266,
+    "ytd_prior": 1.27451
    },
    "tax": {
     "fy": 0.377801,
-    "ytd": 0.04027,
-    "ytd_prior": 0.075987
+    "ytd": 0.302134,
+    "ytd_prior": 0.287139
    }
   },
   "balance": {
-   "current_assets": 5.48426,
-   "current_liabilities": 1.489649,
-   "total_assets": 7.339113,
-   "total_liabilities": 1.716266,
-   "retained_earnings": 0.517099,
-   "equity_total": 5.622847,
-   "cash": 3.461114
+   "current_assets": 5.521368,
+   "current_liabilities": 1.437818,
+   "total_assets": 7.287257,
+   "total_liabilities": 1.64432,
+   "retained_earnings": 0.317901,
+   "equity_total": 5.642937,
+   "cash": 3.275881
   },
   "debt_facts": {},
   "debt_facts_annual": {},
@@ -2107,16 +2107,16 @@
   ]
  },
  "EXEL": {
-  "name": "Exelixis Inc",
+  "name": "EXELIXIS, INC.",
   "cik": "0000939767",
   "edgar_k_end": "2026-01-02",
-  "edgar_q_end": "2026-07-03",
-  "ytd_label": "YTD to 2026-07-03",
+  "edgar_q_end": "2026-10-02",
+  "ytd_label": "YTD to 2026-10-02",
   "flows": {
    "op_income": {
     "fy": 0.872191,
-    "ytd": 0.499755,
-    "ytd_prior": 0.400435
+    "ytd": 0.768178,
+    "ytd_prior": 0.636975
    },
    "interest_expense": {
     "fy": null,
@@ -2125,13 +2125,13 @@
    },
    "ocf": {
     "fy": 0.884267,
-    "ytd": 0.559586,
-    "ytd_prior": 0.26043
+    "ytd": 0.839542,
+    "ytd_prior": 0.550752
    },
    "capex": {
     "fy": 0.008429,
-    "ytd": 0.008325,
-    "ytd_prior": 0.00579
+    "ytd": 0.010814,
+    "ytd_prior": 0.007272
    },
    "pretax": {
     "fy": null,
@@ -2140,18 +2140,18 @@
    },
    "tax": {
     "fy": 0.158636,
-    "ytd": 0.107848,
-    "ytd_prior": 0.091641
+    "ytd": 0.172538,
+    "ytd_prior": 0.150476
    }
   },
   "balance": {
-   "current_assets": 1.250822,
-   "current_liabilities": 0.361927,
-   "total_assets": 2.494234,
-   "total_liabilities": 0.650472,
-   "retained_earnings": -0.262533,
-   "equity_total": 1.843762,
-   "cash": 0.281448
+   "current_assets": 1.321622,
+   "current_liabilities": 0.411877,
+   "total_assets": 2.513489,
+   "total_liabilities": 0.679657,
+   "retained_earnings": -0.258802,
+   "equity_total": 1.833832,
+   "cash": 0.304774
   },
   "debt_facts": {},
   "debt_facts_annual": {},
@@ -2195,52 +2195,52 @@
   "name": "TENET HEALTHCARE CORP",
   "cik": "0000070318",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 3.508,
-    "ytd": 2.797,
-    "ytd_prior": 1.766
+    "ytd": 4.547,
+    "ytd_prior": 2.655
    },
    "interest_expense": {
     "fy": 0.821,
-    "ytd": 0.409,
-    "ytd_prior": 0.41
+    "ytd": 0.612,
+    "ytd_prior": 0.616
    },
    "ocf": {
     "fy": 3.54,
-    "ytd": 2.226,
-    "ytd_prior": 1.751
+    "ytd": 3.507,
+    "ytd_prior": 2.809
    },
    "capex": {
     "fy": 1.01,
-    "ytd": 0.348,
-    "ytd_prior": 0.366
+    "ytd": 0.546,
+    "ytd_prior": 0.646
    },
    "pretax": {
     "fy": 2.8,
-    "ytd": 2.472,
-    "ytd_prior": 1.407
+    "ytd": null,
+    "ytd_prior": null
    },
    "tax": {
     "fy": 0.433,
-    "ytd": 0.521,
-    "ytd_prior": 0.263
+    "ytd": 0.881,
+    "ytd_prior": 0.396
    }
   },
   "balance": {
-   "current_assets": 7.827,
-   "current_liabilities": 5.567,
-   "total_assets": 30.676,
-   "total_liabilities": 21.976,
-   "retained_earnings": 5.943,
-   "equity_total": 6.557,
-   "cash": 2.17
+   "current_assets": 8.428,
+   "current_liabilities": 5.318,
+   "total_assets": 31.592,
+   "total_liabilities": 21.998,
+   "retained_earnings": 6.943,
+   "equity_total": 7.415,
+   "cash": 2.674
   },
   "debt_facts": {
-   "DebtAndCapitalLeaseObligations": 13.248,
-   "LongTermDebtAndCapitalLeaseObligations": 13.088
+   "DebtAndCapitalLeaseObligations": 13.243,
+   "LongTermDebtAndCapitalLeaseObligations": 13.079
   },
   "debt_facts_annual": {},
   "revenue": [
@@ -2372,51 +2372,51 @@
   "name": "T-MOBILE US, INC.",
   "cik": "0001283699",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 18.279,
-    "ytd": 9.987,
-    "ytd_prior": 10.013
+    "ytd": 15.648,
+    "ytd_prior": 14.543
    },
    "interest_expense": {
     "fy": 3.882,
-    "ytd": 2.173,
-    "ytd_prior": 1.926
+    "ytd": 3.119,
+    "ytd_prior": 2.923
    },
    "ocf": {
     "fy": 27.95,
-    "ytd": 14.722,
-    "ytd_prior": 13.839
+    "ytd": 22.063,
+    "ytd_prior": 21.296
    },
    "capex": {
     "fy": 9.955,
-    "ytd": 5.326,
-    "ytd_prior": 4.847
+    "ytd": 7.596,
+    "ytd_prior": 7.486
    },
    "pretax": {
     "fy": 14.281,
-    "ytd": 7.662,
-    "ytd_prior": 8.118
+    "ytd": 12.202,
+    "ytd_prior": 11.646
    },
    "tax": {
     "fy": 3.289,
-    "ytd": 1.919,
-    "ytd_prior": 1.943
+    "ytd": 3.004,
+    "ytd_prior": 2.757
    }
   },
   "balance": {
-   "current_assets": 21.769,
-   "current_liabilities": 23.554,
-   "total_assets": 213.553,
+   "current_assets": 21.842,
+   "current_liabilities": 23.991,
+   "total_assets": 213.104,
    "total_liabilities": null,
-   "retained_earnings": 24.688,
-   "equity_total": 56.265,
-   "cash": 2.825
+   "retained_earnings": 26.915,
+   "equity_total": 56.307,
+   "cash": 5.62
   },
   "debt_facts": {
-   "ShortTermBorrowings": 6.117
+   "ShortTermBorrowings": 6.343
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 81.147
@@ -2637,54 +2637,54 @@
   "name": "EDISON INTERNATIONAL",
   "cik": "0000827052",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-03-31",
-  "ytd_label": "YTD to 2026-03-31",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 7.093,
-    "ytd": 1.074,
-    "ytd_prior": 2.134
+    "ytd": 3.146,
+    "ytd_prior": 4.341
    },
    "interest_expense": {
     "fy": 1.539,
-    "ytd": 0.524,
-    "ytd_prior": 0.301
+    "ytd": 1.583,
+    "ytd_prior": 1.293
    },
    "ocf": {
     "fy": 5.8,
-    "ytd": 1.427,
-    "ytd_prior": 1.224
+    "ytd": 5.393,
+    "ytd_prior": 4.228
    },
    "capex": {
     "fy": 6.515,
-    "ytd": 1.539,
-    "ytd_prior": 1.408
+    "ytd": 5.206,
+    "ytd_prior": 4.624
    },
    "pretax": {
     "fy": 5.992,
-    "ytd": 0.671,
-    "ytd_prior": 1.94
+    "ytd": 1.894,
+    "ytd_prior": 3.387
    },
    "tax": {
     "fy": 1.291,
-    "ytd": 0.101,
-    "ytd_prior": 0.448
+    "ytd": 0.012,
+    "ytd_prior": 0.609
    }
   },
   "balance": {
-   "current_assets": 7.176,
-   "current_liabilities": 9.7,
-   "total_assets": 94.475,
-   "total_liabilities": 75.591,
-   "retained_earnings": 10.899,
-   "equity_total": 18.884,
-   "cash": 0.168
+   "current_assets": 7.281,
+   "current_liabilities": 9.501,
+   "total_assets": 96.893,
+   "total_liabilities": 77.44,
+   "retained_earnings": 11.457,
+   "equity_total": 19.453,
+   "cash": 0.171
   },
   "debt_facts": {
-   "LongTermDebt": 40.307,
-   "LongTermDebtNoncurrent": 37.311,
-   "LongTermDebtCurrent": 2.996,
-   "ShortTermBorrowings": 1.242
+   "LongTermDebt": 40.806,
+   "LongTermDebtNoncurrent": 39.002,
+   "LongTermDebtCurrent": 1.804,
+   "ShortTermBorrowings": 0.79
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 36.07
@@ -2810,53 +2810,53 @@
   "name": "ROYAL CARIBBEAN CRUISES LTD",
   "cik": "0000884887",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 4.91,
-    "ytd": 2.469,
-    "ytd_prior": 2.275
+    "ytd": 4.34,
+    "ytd_prior": 3.977
    },
    "interest_expense": {
     "fy": 0.992,
-    "ytd": 0.514,
-    "ytd_prior": 0.477
+    "ytd": 0.805,
+    "ytd_prior": 0.725
    },
    "ocf": {
     "fy": 6.465,
-    "ytd": 3.694,
-    "ytd_prior": 3.373
+    "ytd": 5.274,
+    "ytd_prior": 4.842
    },
    "capex": {
     "fy": 5.229,
-    "ytd": 3.237,
-    "ytd_prior": 1.264
+    "ytd": 3.88,
+    "ytd_prior": 3.722
    },
    "pretax": {
     "fy": 4.373,
-    "ytd": 2.126,
-    "ytd_prior": 1.983
+    "ytd": 3.887,
+    "ytd_prior": 3.596
    },
    "tax": {
     "fy": 0.082,
-    "ytd": 0.039,
-    "ytd_prior": 0.033
+    "ytd": 0.066,
+    "ytd_prior": 0.067
    }
   },
   "balance": {
-   "current_assets": 2.433,
-   "current_liabilities": 11.655,
-   "total_assets": 44.644,
-   "total_liabilities": 34.183,
-   "retained_earnings": 7.187,
-   "equity_total": 10.461,
-   "cash": 0.875
+   "current_assets": 2.474,
+   "current_liabilities": 11.413,
+   "total_assets": 44.813,
+   "total_liabilities": 32.9,
+   "retained_earnings": 8.512,
+   "equity_total": 11.913,
+   "cash": 0.851
   },
   "debt_facts": {
-   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 23.407,
-   "DebtCurrent": 1.573,
-   "LongTermDebtAndCapitalLeaseObligations": 21.263
+   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 22.872,
+   "DebtCurrent": 2.239,
+   "LongTermDebtAndCapitalLeaseObligations": 20.116
   },
   "debt_facts_annual": {},
   "revenue": [
@@ -3250,28 +3250,28 @@
   "name": "DECKERS OUTDOOR CORP",
   "cik": "0000910521",
   "edgar_k_end": "2026-03-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 1.262903,
-    "ytd": 0.155301,
-    "ytd_prior": 0.165287
+    "ytd": 0.544757,
+    "ytd_prior": 0.491808
    },
    "interest_expense": {
     "fy": 0.00253,
-    "ytd": 0.002227,
-    "ytd_prior": 0.000935
+    "ytd": 0.00363,
+    "ytd_prior": 0.001456
    },
    "ocf": {
     "fy": 1.181955,
-    "ytd": 0.047904,
-    "ytd_prior": 0.036146
+    "ytd": -0.009262,
+    "ytd_prior": 0.044233
    },
    "capex": {
     "fy": 0.084623,
-    "ytd": 0.015222,
-    "ytd_prior": 0.02394
+    "ytd": 0.037176,
+    "ytd_prior": 0.045932
    },
    "pretax": {
     "fy": 1.326356,
@@ -3280,18 +3280,18 @@
    },
    "tax": {
     "fy": 0.302285,
-    "ytd": 0.039078,
-    "ytd_prior": 0.043863
+    "ytd": 0.129394,
+    "ytd_prior": 0.118067
    }
   },
   "balance": {
-   "current_assets": 2.922029,
-   "current_liabilities": 1.063631,
-   "total_assets": 3.868621,
+   "current_assets": 2.911199,
+   "current_liabilities": 1.068633,
+   "total_assets": 3.948445,
    "total_liabilities": null,
-   "retained_earnings": 2.034898,
-   "equity_total": 2.301682,
-   "cash": 1.602589
+   "retained_earnings": 2.045895,
+   "equity_total": 2.321486,
+   "cash": 1.209722
   },
   "debt_facts": {},
   "debt_facts_annual": {},
@@ -3604,51 +3604,51 @@
   "name": "WILLIS TOWERS WATSON PLC",
   "cik": "0001140536",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 2.234,
-    "ytd": 0.812,
-    "ytd_prior": 0.8
+    "ytd": 1.241,
+    "ytd_prior": 1.218
    },
    "interest_expense": {
     "fy": 0.26,
-    "ytd": 0.155,
-    "ytd_prior": 0.129
+    "ytd": 0.235,
+    "ytd_prior": 0.194
    },
    "ocf": {
     "fy": 1.775,
-    "ytd": 0.474,
-    "ytd_prior": 0.326
+    "ytd": 1.213,
+    "ytd_prior": 1.004
    },
    "capex": {
     "fy": 0.229,
-    "ytd": 0.114,
-    "ytd_prior": 0.109
+    "ytd": 0.178,
+    "ytd_prior": 0.166
    },
    "pretax": {
     "fy": 1.953,
-    "ytd": 0.668,
-    "ytd_prior": 0.616
+    "ytd": 1.069,
+    "ytd_prior": 1.006
    },
    "tax": {
     "fy": 0.318,
-    "ytd": 0.127,
-    "ytd_prior": 0.044
+    "ytd": 0.206,
+    "ytd_prior": 0.121
    }
   },
   "balance": {
-   "current_assets": 16.745,
-   "current_liabilities": 15.245,
-   "total_assets": 30.559,
-   "total_liabilities": 22.789,
-   "retained_earnings": -0.699,
-   "equity_total": 7.77,
-   "cash": 1.627
+   "current_assets": 16.134,
+   "current_liabilities": 14.618,
+   "total_assets": 29.996,
+   "total_liabilities": 22.156,
+   "retained_earnings": -0.707,
+   "equity_total": 7.84,
+   "cash": 1.946
   },
   "debt_facts": {
-   "LongTermDebtNoncurrent": 5.781,
+   "LongTermDebtNoncurrent": 5.783,
    "LongTermDebtCurrent": 0.749
   },
   "debt_facts_annual": {
@@ -3691,53 +3691,53 @@
   "name": "Cboe Global Markets, Inc.",
   "cik": "0001374310",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 1.4671,
-    "ytd": 0.9816,
-    "ytd_prior": 0.693
+    "ytd": 1.5159,
+    "ytd_prior": 1.0633
    },
    "interest_expense": {
     "fy": 0.0523,
-    "ytd": 0.0265,
-    "ytd_prior": 0.0257
+    "ytd": 0.0396,
+    "ytd_prior": 0.039
    },
    "ocf": {
     "fy": 1.7526,
-    "ytd": 1.4568,
-    "ytd_prior": 1.2466
+    "ytd": 2.2739,
+    "ytd_prior": 1.4005
    },
    "capex": {
     "fy": 0.071,
-    "ytd": 0.0523,
-    "ytd_prior": 0.035
+    "ytd": 0.0764,
+    "ytd_prior": 0.051
    },
    "pretax": {
     "fy": 1.5666,
-    "ytd": 1.0102,
-    "ytd_prior": 0.6848
+    "ytd": 1.5647,
+    "ytd_prior": 1.1149
    },
    "tax": {
     "fy": 0.4666,
-    "ytd": 0.2714,
-    "ytd_prior": 0.1991
+    "ytd": 0.3977,
+    "ytd_prior": 0.3284
    }
   },
   "balance": {
-   "current_assets": 5.9268,
-   "current_liabilities": 3.7865,
-   "total_assets": 10.6093,
-   "total_liabilities": 4.9835,
-   "retained_earnings": 4.131,
-   "equity_total": 5.6258,
-   "cash": 2.2762
+   "current_assets": 6.567,
+   "current_liabilities": 4.0908,
+   "total_assets": 11.2266,
+   "total_liabilities": 5.3001,
+   "retained_earnings": 4.469,
+   "equity_total": 5.9265,
+   "cash": 2.6626
   },
   "debt_facts": {
-   "LongTermDebt": 1.4438,
-   "LongTermDebtNoncurrent": 0.7942,
-   "LongTermDebtCurrent": 0.6496
+   "LongTermDebt": 1.4443,
+   "LongTermDebtNoncurrent": 0.7945,
+   "LongTermDebtCurrent": 0.6498
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 1.4429
@@ -3783,28 +3783,28 @@
   "name": "PayPal Holdings, Inc.",
   "cik": "0001633917",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-03-31",
-  "ytd_label": "YTD to 2026-03-31",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 6.065,
-    "ytd": 1.488,
-    "ytd_prior": 1.53
+    "ytd": 4.317,
+    "ytd_prior": 4.554
    },
    "interest_expense": {
     "fy": 0.441,
-    "ytd": 0.111,
-    "ytd_prior": 0.103
+    "ytd": 0.375,
+    "ytd_prior": 0.33
    },
    "ocf": {
     "fy": 6.416,
-    "ytd": 1.134,
-    "ytd_prior": 1.16
+    "ytd": 4.709,
+    "ytd_prior": 4.032
    },
    "capex": {
     "fy": 0.852,
-    "ytd": 0.231,
-    "ytd_prior": 0.196
+    "ytd": 0.6,
+    "ytd_prior": 0.658
    },
    "pretax": {
     "fy": 6.292,
@@ -3813,22 +3813,24 @@
    },
    "tax": {
     "fy": 1.059,
-    "ytd": 0.28,
-    "ytd_prior": 0.316
+    "ytd": 0.787,
+    "ytd_prior": 0.869
    }
   },
   "balance": {
-   "current_assets": 59.995,
-   "current_liabilities": 47.637,
-   "total_assets": 80.546,
-   "total_liabilities": 60.522,
-   "retained_earnings": 33.453,
-   "equity_total": 20.024,
-   "cash": 6.977
+   "current_assets": 60.549,
+   "current_liabilities": 47.89,
+   "total_assets": 81.622,
+   "total_liabilities": 62.139,
+   "retained_earnings": 35.384,
+   "equity_total": 19.483,
+   "cash": 7.16
   },
   "debt_facts": {
-   "LongTermDebt": 10.876,
-   "LongTermDebtNoncurrent": 9.409
+   "LongTermDebt": 13.353,
+   "LongTermDebtNoncurrent": 10.939,
+   "LongTermDebtCurrent": 2.333,
+   "DebtCurrent": 2.533
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 9.987
@@ -4139,54 +4141,54 @@
   "name": "NXP Semiconductors N.V.",
   "cik": "0001413447",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-03-29",
-  "ytd_label": "YTD to 2026-03-29",
+  "edgar_q_end": "2026-09-27",
+  "ytd_label": "YTD to 2026-09-27",
   "flows": {
    "op_income": {
     "fy": 3.047,
-    "ytd": 1.505,
-    "ytd_prior": 0.723
+    "ytd": 3.804,
+    "ytd_prior": 2.303
    },
    "interest_expense": {
     "fy": 0.466,
-    "ytd": 0.114,
-    "ytd_prior": 0.106
+    "ytd": 0.334,
+    "ytd_prior": 0.339
    },
    "ocf": {
     "fy": 2.82,
-    "ytd": 0.793,
-    "ytd_prior": 0.565
+    "ytd": 2.909,
+    "ytd_prior": 1.929
    },
    "capex": {
     "fy": 0.397,
-    "ytd": 0.079,
-    "ytd_prior": 0.139
+    "ytd": 0.199,
+    "ytd_prior": 0.299
    },
    "pretax": {
     "fy": 2.663,
-    "ytd": 1.409,
-    "ytd_prior": 0.631
+    "ytd": 3.514,
+    "ytd_prior": 2.027
    },
    "tax": {
     "fy": 0.525,
-    "ytd": 0.272,
-    "ytd_prior": 0.13
+    "ytd": 0.689,
+    "ytd_prior": 0.394
    }
   },
   "balance": {
-   "current_assets": 8.152,
-   "current_liabilities": 3.638,
-   "total_assets": 27.113,
-   "total_liabilities": 15.839,
-   "retained_earnings": -0.496,
-   "equity_total": 11.274,
-   "cash": 3.708
+   "current_assets": 8.435,
+   "current_liabilities": 3.97,
+   "total_assets": 27.607,
+   "total_liabilities": 15.142,
+   "retained_earnings": 0.632,
+   "equity_total": 12.465,
+   "cash": 3.943
   },
   "debt_facts": {
-   "DebtAndCapitalLeaseObligations": 11.724,
-   "DebtCurrent": 0.75,
+   "DebtAndCapitalLeaseObligations": 10.978,
+   "DebtCurrent": 0.999,
    "CommercialPaper": 2.0,
-   "LongTermDebtAndCapitalLeaseObligations": 10.974
+   "LongTermDebtAndCapitalLeaseObligations": 9.979
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 10.972
@@ -4404,57 +4406,57 @@
   ]
  },
  "LNG": {
-  "name": "Cheniere Energy, Inc.",
+  "name": "CHENIERE ENERGY, INC.",
   "cik": "0000003570",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 9.112,
-    "ytd": 0.802,
-    "ytd_prior": 3.491
+    "ytd": 2.717,
+    "ytd_prior": 5.308
    },
    "interest_expense": {
     "fy": 0.948,
-    "ytd": 0.542,
-    "ytd_prior": 0.466
+    "ytd": 0.827,
+    "ytd_prior": 0.702
    },
    "ocf": {
     "fy": 5.539,
-    "ytd": 2.658,
-    "ytd_prior": 2.059
+    "ytd": 5.124,
+    "ytd_prior": 3.484
    },
    "capex": {
     "fy": 3.078,
-    "ytd": 1.916,
-    "ytd_prior": 1.647
+    "ytd": 2.648,
+    "ytd_prior": 2.334
    },
    "pretax": {
     "fy": 8.282,
-    "ytd": 0.255,
-    "ytd_prior": 3.112
+    "ytd": 1.909,
+    "ytd_prior": 4.711
    },
    "tax": {
     "fy": 1.488,
-    "ytd": 0.025,
-    "ytd_prior": 0.547
+    "ytd": 0.193,
+    "ytd_prior": 0.85
    }
   },
   "balance": {
-   "current_assets": 4.112,
-   "current_liabilities": 4.723,
-   "total_assets": 47.972,
-   "total_liabilities": 36.482,
-   "retained_earnings": 11.573,
-   "equity_total": 11.49,
-   "cash": 1.099
+   "current_assets": 4.713,
+   "current_liabilities": 5.236,
+   "total_assets": 48.835,
+   "total_liabilities": 36.865,
+   "retained_earnings": 12.626,
+   "equity_total": 11.97,
+   "cash": 1.663
   },
   "debt_facts": {
-   "LongTermDebt": 22.632,
-   "LongTermDebtNoncurrent": 22.632,
-   "LongTermDebtCurrent": 1.411,
-   "DebtCurrent": 1.411
+   "LongTermDebt": 22.582,
+   "LongTermDebtNoncurrent": 22.582,
+   "LongTermDebtCurrent": 1.349,
+   "DebtCurrent": 1.349
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 22.507
@@ -4493,57 +4495,57 @@
   ]
  },
  "OKE": {
-  "name": "ONEOK INC /NEW/",
+  "name": "ONEOK, Inc.",
   "cik": "0001039684",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 5.741,
-    "ytd": 3.021,
-    "ytd_prior": 2.651
+    "ytd": 4.589,
+    "ytd_prior": 4.209
    },
    "interest_expense": {
     "fy": 1.783,
-    "ytd": 0.873,
-    "ytd_prior": 0.88
+    "ytd": 1.288,
+    "ytd_prior": 1.33
    },
    "ocf": {
     "fy": 5.599,
-    "ytd": 2.987,
-    "ytd_prior": 2.429
+    "ytd": 4.366,
+    "ytd_prior": 4.053
    },
    "capex": {
     "fy": 3.152,
-    "ytd": 1.477,
-    "ytd_prior": 1.378
+    "ytd": 2.414,
+    "ytd_prior": 2.182
    },
    "pretax": {
     "fy": 4.49,
-    "ytd": 2.287,
-    "ytd_prior": 2.001
+    "ytd": 3.645,
+    "ytd_prior": 3.238
    },
    "tax": {
     "fy": 1.028,
-    "ytd": 0.544,
-    "ytd_prior": 0.457
+    "ytd": 0.518,
+    "ytd_prior": 0.754
    }
   },
   "balance": {
-   "current_assets": 5.31,
-   "current_liabilities": 7.204,
-   "total_assets": 68.549,
+   "current_assets": 6.253,
+   "current_liabilities": 7.421,
+   "total_assets": 74.292,
    "total_liabilities": null,
-   "retained_earnings": 2.759,
-   "equity_total": 23.037,
-   "cash": 0.161
+   "retained_earnings": 3.429,
+   "equity_total": 32.46,
+   "cash": 0.186
   },
   "debt_facts": {
-   "LongTermDebt": 31.5,
-   "LongTermDebtNoncurrent": 30.773,
-   "LongTermDebtCurrent": 0.75,
-   "ShortTermBorrowings": 1.499
+   "LongTermDebt": 28.4,
+   "LongTermDebtNoncurrent": 26.935,
+   "LongTermDebtCurrent": 1.5,
+   "ShortTermBorrowings": 0.085
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 30.755
@@ -4844,52 +4846,52 @@
   "name": "First Solar, Inc.",
   "cik": "0001274494",
   "edgar_k_end": "2025-12-31",
-  "edgar_q_end": "2026-06-30",
-  "ytd_label": "YTD to 2026-06-30",
+  "edgar_q_end": "2026-09-30",
+  "ytd_label": "YTD to 2026-09-30",
   "flows": {
    "op_income": {
     "fy": 1.596864,
-    "ytd": 0.795689,
-    "ytd_prior": 0.582851
+    "ytd": 1.341797,
+    "ytd_prior": 1.048946
    },
    "interest_expense": {
     "fy": 0.044131,
-    "ytd": 0.013178,
-    "ytd_prior": 0.018709
+    "ytd": 0.015568,
+    "ytd_prior": 0.03283
    },
    "ocf": {
     "fy": 2.057105,
-    "ytd": -0.359767,
-    "ytd_prior": -0.458405
+    "ytd": -0.402714,
+    "ytd_prior": 0.815212
    },
    "capex": {
     "fy": 0.869875,
-    "ytd": 0.279849,
-    "ytd_prior": 0.4941
+    "ytd": 0.434662,
+    "ytd_prior": 0.698148
    },
    "pretax": {
     "fy": 1.580913,
-    "ytd": 0.813711,
-    "ytd_prior": 0.569226
+    "ytd": 1.37974,
+    "ytd_prior": 1.029571
    },
    "tax": {
     "fy": 0.052684,
-    "ytd": 0.044523,
-    "ytd_prior": 0.017823
+    "ytd": 0.039489,
+    "ytd_prior": 0.022225
    }
   },
   "balance": {
-   "current_assets": 5.317215,
-   "current_liabilities": 2.111816,
-   "total_assets": 13.388598,
-   "total_liabilities": 3.06826,
-   "retained_earnings": 7.560527,
-   "equity_total": 10.320338,
-   "cash": 1.688279
+   "current_assets": 5.307905,
+   "current_liabilities": 2.064667,
+   "total_assets": 14.020016,
+   "total_liabilities": 3.139283,
+   "retained_earnings": 8.13159,
+   "equity_total": 10.880733,
+   "cash": 1.576003
   },
   "debt_facts": {
    "LongTermDebtNoncurrent": 0.0,
-   "DebtCurrent": 0.037635
+   "DebtCurrent": 0.107668
   },
   "debt_facts_annual": {
    "LongTermDebtNoncurrent": 0.282593
